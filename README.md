@@ -5,7 +5,7 @@ _Tel Aviv District, Israel_
 
 ---
 
-🔗 [LinkedIn](www.linkedin.com/in/dor-pascal)  | 📞 `+972-545627171` | 📧 `dor.pascal@gmail.com`
+🔗 [LinkedIn](https://www.linkedin.com/in/dor-pascal) | 📞 `+972-545627171` | 📧 `dor.pascal@gmail.com`
 
 ---
 
@@ -37,6 +37,12 @@ Transitioning from an extensive legal background with the Israel Defense Forces,
 - **Assembler**: An Assembly Language Compiler written in C for Ubuntu 16.04. 
   - Technologies: `C`, `Ubuntu 16.04`
   - [Link to Repository](https://github.com/Dor-sketch/openu_course20465_project)
+    
+- **PsychoTimer**: An interactive examiner simulator leveraging Python, Threading, and Azure Voice Utils.
+  - Technologies: `Python`, `MacOS`, `Azure Cognitive Services`
+  - [Link to Repository](https://github.com/Dor-sketch/PsychoTimer)
+
+
 
 ### Skills
 
