@@ -9,9 +9,16 @@ _Tel Aviv District, Israel_
 
 ---
 
+### Professional Summary
+Transitioning from an extensive legal background with the Israel Defense Forces, I'm melding my analytical and advisory skills with my passion for computer science. With hands-on experience in C, C++, and Python, I aim to drive impactful solutions in the tech world. Looking to collaborate on projects and expand my horizons in software engineering.
+
+---
+
 ### Objective
 
-Transitioning from an extensive legal background with the Israel Defense Forces, I am melding my analytical and advisory skills with my passion for computer science. As a self-taught software enthusiast who pursued computer science during my military service, I'm eager to dive deeper into the realm of software engineering. Looking for roles in frontend, backend, full-stack, and data science. Actively seeking internships and collaboration opportunities in the tech sector.
+Eager to dive deeper into the realm of software engineering, leveraging my unique blend of legal analysis and tech skills. Passionate about both frontend and backend development. Actively seeking internships and collaboration opportunities that challenge me to learn and contribute to real-world tech solutions.
+
+---
 
 ### Education
 
@@ -20,6 +27,8 @@ Transitioning from an extensive legal background with the Israel Defense Forces,
 
 - **Bachelor of Laws (LLB) & Arts in Asian Studies/Civilization (Combined Degree)**, The Hebrew University of Jerusalem (2013 - 2017)
   - Final Grade Average: `84.33`
+
+---
 
 ### Work Experience
 
@@ -32,17 +41,26 @@ Transitioning from an extensive legal background with the Israel Defense Forces,
 - **Aid to the Spokesperson for Legal Issues**, Israel Defense Forces (September 2017 - April 2019)
   - Served as a legal spokesman, managed press releases, and assisted with media coverage.
 
+---
+
 ### Projects on GitHub
 
 - **Assembler**: An Assembly Language Compiler written in C for Ubuntu 16.04. 
+  - This project challenged me to delve deep into compiler design, understanding the nuances of translating assembly language to machine code.
   - Technologies: `C`, `Ubuntu 16.04`
   - [Link to Repository](https://github.com/Dor-sketch/openu_course20465_project)
     
 - **PsychoTimer**: An interactive examiner simulator leveraging Python, Threading, and Azure Voice Utils.
+  - Built as a simulator to mimic real-world examination scenarios, integrating voice utilities for a realistic experience.
   - Technologies: `Python`, `MacOS`, `Azure Cognitive Services`
   - [Link to Repository](https://github.com/Dor-sketch/PsychoTimer)
 
+- **Backup Server**: A server application designed for various file operations including save, restore, and delete.
+  - A dynamic project focusing on server-client interactions and efficient file parsing.
+  - Technologies: `C++`, `Python`, `Boost.Asio`
+  - [Link to Repository](https://github.com/Dor-sketch/sec_mmn14)
 
+---
 
 ### Skills
 
@@ -56,14 +74,17 @@ Transitioning from an extensive legal background with the Israel Defense Forces,
 - **Self-Directed Learning**: Pursued computer science degree during military service.
 - **Team Leadership & Collaboration**: Leadership in high-stress military environments.
 
+---
+
 #### Languages
 - **English**: Native
 - **Hebrew**: Fluent
 - **Japanese**: Elementary
 
+---
+
 ### Certifications
 
 - **Israeli Bar Admitted Lawyer**
 
----
 
