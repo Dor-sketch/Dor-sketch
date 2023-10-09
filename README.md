@@ -15,17 +15,29 @@ Transitioning from an extensive legal background with the Israel Defense Forces,
 ---
 
 ### Objective
-Eager to dive deeper into the realm of software engineering, leveraging my unique blend of legal analysis and tech skills. Passionate about both frontend and backend development. Actively seeking internships and collaboration opportunities that challenge me to learn and contribute to real-world tech solutions.
+Eager to harness my unique blend of legal analysis and tech skills in software engineering roles, both frontend and backend. Actively seeking internships and collaboration opportunities to contribute to real-world tech solutions.
 
 ---
 
 ### Projects on GitHub
 
+- **Backup Server**: A server application designed for various file operations including save, restore, and delete.
+  - Course: "Defensive System-Programming (20937)", The Open University of Israel, 2023c
+  - Grade: `100`
+  - A dynamic project focusing on server-client interactions and efficient file parsing.
+  - Technologies: `C++`, `Python`, `Boost.Asio`, `Polyglot programming`
+  - [Link to Repository](https://github.com/Dor-sketch/sec_mmn14)
+
 - **USocial**: A basic social media system simulation.
   - Course: "Defensive System-Programming (20937)", The Open University of Israel, 2023c
   - Grade: `96`
-  - Technologies: `C++`, `C++14`, `STL`
+  - Technologies: `C++`, `C++14`, `STL`, `Valgrind`
   - [Link to Repository](https://github.com/Dor-sketch/sec_mmn11)
+    
+- **PsychoTimer**: An interactive examiner simulator written in 2023, leveraging Python, Threading, and Azure Voice Utils.
+  - Built as a solo project to mimic real-world examination scenarios, integrating voice utilities for a realistic experience.
+  - Technologies: `Python`, `MacOS`, `Azure Cognitive Services`
+  - [Link to Repository](https://github.com/Dor-sketch/PsychoTimer)
 
 - **Assembler**: An Assembly Language Compiler written in C for Ubuntu 16.04.
   - Course: "System Programming Laboratory (20465)", The Open University of Israel, 2022a
@@ -33,19 +45,14 @@ Eager to dive deeper into the realm of software engineering, leveraging my uniqu
   - This project challenged me to delve deep into compiler design, understanding the nuances of translating assembly language to machine code.
   - Technologies: `C`, `Ubuntu 16.04`
   - [Link to Repository](https://github.com/Dor-sketch/openu_course20465_project)
-    
-- **PsychoTimer**: An interactive examiner simulator leveraging Python, Threading, and Azure Voice Utils.
-  - Built as a solo project to mimic real-world examination scenarios, integrating voice utilities for a realistic experience.
-  - Technologies: `Python`, `MacOS`, `Azure Cognitive Services`
-  - [Link to Repository](https://github.com/Dor-sketch/PsychoTimer)
 
-- **Backup Server**: A server application designed for various file operations including save, restore, and delete.
-  - Course: "Defensive System-Programming (20937)", The Open University of Israel, 2023c
-  - Grade: `100`
-  - A dynamic project focusing on server-client interactions and efficient file parsing.
-  - Technologies: `C++`, `Python`, `Boost.Asio`
-  - [Link to Repository](https://github.com/Dor-sketch/sec_mmn14)
-
+- **Java Algorithms**: A collection of Java-based algorithms focusing on problems in computer science.
+  - Course: "Introduction to Computer Science (20441)", The Open University of Israel, 2019b
+  - Grade: `90`
+  - Although most of my recent work is in C, C++, or Python, this project is a testament to my foundational skills in Java.
+  - Developed using the `BlueJ` IDE, which provided an immersive environment for understanding Java and `OOP` concepts.
+  - Technologies: `Java`
+  - [Link to Repository](https://github.com/Dor-sketch/IntroToCS_mmn14)
 
 ---
 
