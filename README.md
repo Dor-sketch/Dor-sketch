@@ -15,8 +15,51 @@ Transitioning from an extensive legal background with the Israel Defense Forces,
 ---
 
 ### Objective
-
 Eager to dive deeper into the realm of software engineering, leveraging my unique blend of legal analysis and tech skills. Passionate about both frontend and backend development. Actively seeking internships and collaboration opportunities that challenge me to learn and contribute to real-world tech solutions.
+
+---
+
+### Projects on GitHub
+
+- **USocial**: A basic social media system simulation.
+  - Course: "Defensive System-Programming (20937)", The Open University of Israel, 2023c
+  - Grade: `96`
+  - Technologies: `C++`, `C++14`, `STL`
+  - [Link to Repository](https://github.com/Dor-sketch/sec_mmn11)
+
+- **Assembler**: An Assembly Language Compiler written in C for Ubuntu 16.04.
+  - Course: "System Programming Laboratory (20465)", The Open University of Israel, 2022a
+  - Grade: `98`
+  - This project challenged me to delve deep into compiler design, understanding the nuances of translating assembly language to machine code.
+  - Technologies: `C`, `Ubuntu 16.04`
+  - [Link to Repository](https://github.com/Dor-sketch/openu_course20465_project)
+    
+- **PsychoTimer**: An interactive examiner simulator leveraging Python, Threading, and Azure Voice Utils.
+  - Built as a solo project to mimic real-world examination scenarios, integrating voice utilities for a realistic experience.
+  - Technologies: `Python`, `MacOS`, `Azure Cognitive Services`
+  - [Link to Repository](https://github.com/Dor-sketch/PsychoTimer)
+
+- **Backup Server**: A server application designed for various file operations including save, restore, and delete.
+  - Course: "Defensive System-Programming (20937)", The Open University of Israel, 2023c
+  - Grade: `100`
+  - A dynamic project focusing on server-client interactions and efficient file parsing.
+  - Technologies: `C++`, `Python`, `Boost.Asio`
+  - [Link to Repository](https://github.com/Dor-sketch/sec_mmn14)
+
+
+---
+
+### Skills
+
+#### Technical Skills
+- **Programming**: `C`, `C++`, `Python`
+- **Litigation & Legal Analysis**: Proficient in legal proceedings, lawsuit advisement, and legal writing.
+
+#### Soft Skills
+- **High Cognitive Skills**: Demonstrated with a **Psychometrics ('PET')** score of `727`.
+- **Resilience & Adaptability**: Thrived under pressure in IDF roles.
+- **Self-Directed Learning**: Pursued computer science degree during military service.
+- **Team Leadership & Collaboration**: Leadership in high-stress military environments.
 
 ---
 
@@ -43,36 +86,9 @@ Eager to dive deeper into the realm of software engineering, leveraging my uniqu
 
 ---
 
-### Projects on GitHub
+### Certifications
 
-- **Assembler**: An Assembly Language Compiler written in C for Ubuntu 16.04. 
-  - This project challenged me to delve deep into compiler design, understanding the nuances of translating assembly language to machine code.
-  - Technologies: `C`, `Ubuntu 16.04`
-  - [Link to Repository](https://github.com/Dor-sketch/openu_course20465_project)
-    
-- **PsychoTimer**: An interactive examiner simulator leveraging Python, Threading, and Azure Voice Utils.
-  - Built as a simulator to mimic real-world examination scenarios, integrating voice utilities for a realistic experience.
-  - Technologies: `Python`, `MacOS`, `Azure Cognitive Services`
-  - [Link to Repository](https://github.com/Dor-sketch/PsychoTimer)
-
-- **Backup Server**: A server application designed for various file operations including save, restore, and delete.
-  - A dynamic project focusing on server-client interactions and efficient file parsing.
-  - Technologies: `C++`, `Python`, `Boost.Asio`
-  - [Link to Repository](https://github.com/Dor-sketch/sec_mmn14)
-
----
-
-### Skills
-
-#### Technical Skills
-- **Programming**: `C`, `C++`, `Python`
-- **Litigation & Legal Analysis**: Proficient in legal proceedings, lawsuit advisement, and legal writing.
-
-#### Soft Skills
-- **High Cognitive Skills**: Demonstrated with a PET score of `727`.
-- **Resilience & Adaptability**: Thrived under pressure in IDF roles.
-- **Self-Directed Learning**: Pursued computer science degree during military service.
-- **Team Leadership & Collaboration**: Leadership in high-stress military environments.
+- **Israeli Bar Admitted Lawyer**
 
 ---
 
@@ -80,11 +96,3 @@ Eager to dive deeper into the realm of software engineering, leveraging my uniqu
 - **English**: Native
 - **Hebrew**: Fluent
 - **Japanese**: Elementary
-
----
-
-### Certifications
-
-- **Israeli Bar Admitted Lawyer**
-
-
