@@ -33,7 +33,13 @@ Eager to harness my unique blend of legal analysis and tech skills in software e
   - Grade: `96`
   - Technologies: `C++`, `C++14`, `STL`, `Valgrind`
   - [Link to Repository](https://github.com/Dor-sketch/sec_mmn11)
-    
+
+- **Security Demonstrations**: In-depth tutorials on ASLR and stack overflow vulnerabilities.
+  - Comprehensive demonstrations highlighting ASLR's role in process memory and the exploitation potential of stack overflows via vptr manipulations.
+  - Serves both as an educational tool and a practical showcase for those interested in understanding and visualizing modern security concepts.
+  - Technologies: `C++`, `Linux Security`, `OpenSSL`, `Position-Independent Code (PIC)`, `gdb`
+  - [Link to Repository](https://github.com/Dor-sketch/ASLR-StackSecDemos)
+
 - **PsychoTimer**: An interactive examiner simulator written in 2023, leveraging Python, Threading, and Azure Voice Utils.
   - Built as a solo project to mimic real-world examination scenarios, integrating voice utilities for a realistic experience.
   - Technologies: `Python`, `MacOS`, `Azure Cognitive Services`
