@@ -31,13 +31,14 @@ Eager to harness my unique blend of legal analysis and tech skills in software e
 - **USocial**: A basic social media system simulation.
   - Course: "Defensive System-Programming (20937)", The Open University of Israel, 2023c
   - Grade: `96`
-  - Technologies: `C++`, `C++14`, `STL`, `Valgrind`
+  - A C++14-based simulation leveraging smart pointers, STL containers, and OOP principles for mimicking social media operations.
+  - Technologies: `C++14`, `STL`, `Valgrind`
   - [Link to Repository](https://github.com/Dor-sketch/sec_mmn11)
 
 - **Security Demonstrations**: In-depth tutorials on ASLR and stack overflow vulnerabilities.
   - Comprehensive demonstrations highlighting ASLR's role in process memory and the exploitation potential of stack overflows via vptr manipulations.
   - Serves both as an educational tool and a practical showcase for those interested in understanding and visualizing modern security concepts.
-  - Technologies: `C++`, `Linux Security`, `OpenSSL`, `Position-Independent Code (PIC)`, `gdb`
+  - Technologies: `C++`, `OpenSSL`, `Position-Independent Code (PIC)`, `GDB`
   - [Link to Repository](https://github.com/Dor-sketch/ASLR-StackSecDemos)
 
 - **PsychoTimer**: An interactive examiner simulator written in 2023, leveraging Python, Threading, and Azure Voice Utils.
@@ -48,15 +49,15 @@ Eager to harness my unique blend of legal analysis and tech skills in software e
 - **Assembler**: An Assembly Language Compiler written in C for Ubuntu 16.04.
   - Course: "System Programming Laboratory (20465)", The Open University of Israel, 2022a
   - Grade: `98`
-  - This project challenged me to delve deep into compiler design, understanding the nuances of translating assembly language to machine code.
-  - Technologies: `C`, `Ubuntu 16.04`
+  - This project required a deep understanding of compiler design, emphasizing the intricacies of translating assembly language to machine code.
+  - Technologies: `ANSI C`, `32-bit OS (Ubuntu 16.04)`
   - [Link to Repository](https://github.com/Dor-sketch/openu_course20465_project)
 
 - **Java Algorithms**: A collection of Java-based algorithms focusing on problems in computer science.
   - Course: "Introduction to Computer Science (20441)", The Open University of Israel, 2019b
   - Grade: `90`
   - Although most of my recent work is in C, C++, or Python, this project is a testament to my foundational skills in Java.
-  - Developed using the `BlueJ` IDE, which provided an immersive environment for understanding Java and `OOP` concepts.
+  - Developed using the `BlueJ` IDE, which provided an immersive environment for understanding Java and OOP concepts.
   - Technologies: `Java`
   - [Link to Repository](https://github.com/Dor-sketch/IntroToCS_mmn14)
 
