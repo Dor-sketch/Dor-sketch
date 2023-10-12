@@ -27,7 +27,7 @@ Eager to harness my unique blend of legal analysis and tech skills in software e
   - Focus: Server-client interactions and efficient file parsing.
   - Tech: `C++`, `Python`, `Boost.Asio`, `Polyglot programming`
 
-- [**USocial**](https://github.com/Dor-sketch/ASLR-StackSecDemos): Simulating a basic social media system.
+- [**USocial**](https://github.com/Dor-sketch/sec_mmn11): Simulating a basic social media system.
   - Course: "Defensive System-Programming (20937)", The Open University of Israel, 2023c
   - Grade: `96`
   - Focus: OOP principles, smart pointers, and STL containers in a social media context.
