@@ -15,7 +15,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 - [**Backup Server**](https://github.com/Dor-sketch/sec_mmn14)
   - 🔍 Server-client dynamics & efficient file parsing.
-  - 🛠 `C++`, `Python`, `Boost.Asio`
+  - 🛠 `C++`, `C++17`, `spdlog`, `Templates`, `Python`, `Boost.Asio`
   - 🎓 _Course: "Defensive System-Programming", The Open University of Israel._ Grade: `100`.
 
 - [**USocial**](https://github.com/Dor-sketch/sec_mmn11)
@@ -29,7 +29,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 - [**PsychoTimer**](https://github.com/Dor-sketch/PsychoTimer)
   - 🔍 Recreating real exam environments, supplemented with voice functionalities.
-  - 🛠 `Python`, `MacOS`, `Azure Cognitive Services`
+  - 🛠 `Python`, `threading`, `MacOS`, `Azure Cognitive Services`
 
 - [**Assembler**](https://github.com/Dor-sketch/openu_course20465_project)
   - 🔍 Thorough study of compiler architectures and translating assembly code.
@@ -40,6 +40,10 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   - 🔍 Demonstrating basic Java capabilities and OOP principles.
   - 🛠 `BlueJ` IDE, `Java`
   - 🎓 _Course: "Introduction to Computer Science (20441)", The Open University of Israel._ Grade: `90`.
+
+<br/> 
+
+🛠 Development Environment: Visual Studio Code (VSCode) | 🖥️ Operating System: Ubuntu 22.04
 
 ---
 
