@@ -13,6 +13,17 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 ### 📂 GitHub Projects
 
+- [**Encrypted Communication System (Flagship Project)**](https://github.com/Dor-sketch/EncryptedTCP) ⭐
+  - 🔍 **Problem Solved**: Engineered a robust and secure server-client architecture specifically tailored for real-time encrypted communication.
+  - 🛠 **Technologies Used**: C, C++ (following Effective C++ guidelines), POSIX Sockets, RSA and AES Encryption, Boost.Asio.
+  - 🎓 **Academic Context**: Course: "Defensive System-Programming", The Open University of Israel. Grade: Under Review.
+  - 🚧 **Technical Challenges**: Built a custom encryption layer using RSA and AES algorithms to ensure secure data transmission and integrity.
+  - 🌐 **Potential Applications**: Highly applicable for secure communications such as confidential chats, secure file transfers, or secure remote command execution.
+  - 💡 **What I Learned**: Mastered the intricacies of encryption algorithms and secure data transmission, while also improving code design by adhering to best practices like those in Effective C++.
+  - 🌟 **Personal Note**: This is my most technically rigorous and fulfilling project to date, laying the groundwork for future endeavors in secure communication systems.
+
+---
+
 - [**Backup Server**](https://github.com/Dor-sketch/sec_mmn14)
   - 🔍 Server-client dynamics & efficient file parsing.
   - 🛠 `C++`, `C++17`, `spdlog`, `Templates`, `Python`, `Boost.Asio`
