@@ -32,7 +32,6 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 ### [🌐 Backup Server](https://github.com/Dor-sketch/sec_mmn14)
 - 🏷️ `Networking`, `FileManagement`, `ServerClientDynamics`, `C++17`, `spdlog`, `BoostAsio`
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <details>
 <summary>More Info</summary>
 
@@ -44,7 +43,33 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
   <tr>
     <td>
+      
+### [🛡️ Security Demonstrations](https://github.com/Dor-sketch/ASLR-StackSecDemos)
+- 🏷️ `Security`, `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
 
+<details>
+<summary>More Info</summary>
+
+- 🔍 Detailed exploration of ASLR and stack overflow vulnerabilities.
+</details>
+    </td>
+    <td>
+  
+### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
+- 🏷️ `Productivity`, `ExamSimulation`, `VoiceFunctionality`, `Python`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Crafted a dynamic timer simulating real exam conditions, enhanced with voice functionalities.
+- 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
+</details>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      
 ### [📚 USocial](https://github.com/Dor-sketch/sec_mmn11)
 - 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
@@ -56,41 +81,14 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 </details>
     </td>
     <td>
-
-### [🛡️ Security Demonstrations](https://github.com/Dor-sketch/ASLR-StackSecDemos)
-- 🏷️ `Security`, `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
-
+      
+### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
+- 🏷️ `Productivity`, `ReviewEnhancement`, `Python`, `AnkiAPI`, `JavaScript`
 <details>
 <summary>More Info</summary>
 
-- 🔍 Detailed exploration of ASLR and stack overflow vulnerabilities.
-</details>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-
-### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
-- 🏷️ `Productivity`, `ExamSimulation`, `VoiceFunctionality`, `Python`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Crafted a dynamic timer simulating real exam conditions, enhanced with voice functionalities.
-- 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
-</details>
-    </td>
-    <td>
-
-### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
-- 🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Ubuntu1604`
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<details>
-<summary>More Info</summary>
-
-- 🔍 Dive into the intricacies of compiler architectures and the art of translating assembly code with precision.
-- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel. Achieved an impressive grade of `98`.
+- 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
+- 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
 
 </details>
     </td>
@@ -101,7 +99,6 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 ### [📚 Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
 - 🏷️ `Algorithms`, `DataStructures`, `Complexity`, `Java`, `BlueJIDE`
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <details>
 <summary>More Info</summary>
 
@@ -111,15 +108,14 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 </details>
     </td>
     <td>
-
-### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
-- 🏷️ `Productivity`, `ReviewEnhancement`, `Python`, `AnkiAPI`, `JavaScript`
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      
+### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
+- 🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Ubuntu1604`
 <details>
 <summary>More Info</summary>
 
-- 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
-- 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
+- 🔍 Dive into the intricacies of compiler architectures and the art of translating assembly code with precision.
+- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel. Achieved an impressive grade of `98`.
 
 </details>
     </td>
@@ -132,6 +128,10 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 🖥️ Operating System:        Ubuntu 22.04
 
 ---
+
+
+
+
 
 ### 📜 Education
 
