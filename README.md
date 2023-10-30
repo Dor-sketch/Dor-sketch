@@ -11,51 +11,125 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 ---
 
-### 📂 GitHub Projects
+## 📂 GitHub Projects
 
-- [**Encrypted Communication System (Flagship Project)**](https://github.com/Dor-sketch/EncryptedTCP) ⭐
-  - 🔍 **Problem Solved**: Engineered a robust and secure server-client architecture specifically tailored for real-time encrypted communication.
-  - 🛠 **Technologies Used**: Python, C++ (following Effective C++ guidelines), POSIX Sockets, RSA and AES Encryption, Boost.Asio.
-  - 🎓 **Academic Context**: Course: "Defensive System-Programming", The Open University of Israel. Grade: Under Review.
-  - 🚧 **Technical Challenges**: Built a custom encryption layer using RSA and AES algorithms to ensure secure data transmission and integrity.
-  - 🌐 **Potential Applications**: Highly applicable for secure communications such as confidential chats, secure file transfers, or secure remote command execution.
-  - 💡 **What I Learned**: Mastered the intricacies of encryption algorithms and secure data transmission, while also improving code design by adhering to best practices like those in Effective C++.
-  - 🌟 **Personal Note**: This is my most technically rigorous and fulfilling project to date, laying the groundwork for future endeavors in secure communication systems.
+<table class="projects-table">
+  <tr class="flagship-row">
+    <td>
 
----
+### [🔒 Encrypted Communication System](https://github.com/Dor-sketch/EncryptedTCP) ⭐
+- 🏷️ `FlagshipProject`, `Security`, `Networking`, `Encryption`, `C++17`, `Python3`, `BoostAsio`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
 
-- [**Backup Server**](https://github.com/Dor-sketch/sec_mmn14)
-  - 🔍 Server-client dynamics & efficient file parsing.
-  - 🛠 `C++`, `C++17`, `spdlog`, `Templates`, `Python`, `Boost.Asio`
-  - 🎓 _Course: "Defensive System-Programming", The Open University of Israel._ Grade: `100`.
+<details>
+<summary>More Info</summary>
 
-- [**USocial**](https://github.com/Dor-sketch/sec_mmn11)
-  - 🔍 Emphasis on OOP, smart pointers, and STL containers.
-  - 🛠 `C++14`, `STL`, `Valgrind`
-  - 🎓 _Course: "Defensive System-Programming", The Open University of Israel._ Grade: `96`.
+- 🔍 Developed a secure server-client framework for encrypted real-time communication.
+- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ (Under Review)
+- 📝 This project represents my most significant technical challenge and achievement to date.
+</details>
+    </td>
+    <td>
 
-- [**Security Demonstrations**](https://github.com/Dor-sketch/ASLR-StackSecDemos)
-  - 🔍 Deep dives into ASLR and stack overflow vulnerabilities.
-  - 🛠 `C++`, `OpenSSL`, `Position-Independent Code (PIC)`, `GDB`
+### [🌐 Backup Server](https://github.com/Dor-sketch/sec_mmn14)
+- 🏷️ `Networking`, `FileManagement`, `ServerClientDynamics`, `C++17`, `spdlog`, `BoostAsio`
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<details>
+<summary>More Info</summary>
 
-- [**PsychoTimer**](https://github.com/Dor-sketch/PsychoTimer)
-  - 🔍 A versatile timer for simulating real exam environments, complete with voice functionalities to guide you through each section. Unofficial tool for the Israeli standard exam.
-  - 🛠 `Python`, `Multi-threading`, `Cross-platform`, `Azure Voice API`, `Process Control`
+- 🔍 Focused on server-client dynamics and efficient file parsing.
+- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `100`.
+</details>
+    </td>
+  </tr>
 
+  <tr>
+    <td>
 
-- [**Assembler**](https://github.com/Dor-sketch/openu_course20465_project)
-  - 🔍 Thorough study of compiler architectures and translating assembly code.
-  - 🛠 `ANSI C`, `32-bit OS (Ubuntu 16.04)`
-  - 🎓 _Course: "System Programming Laboratory (20465)", The Open University of Israel._ Grade: `98`.
+### [📚 USocial](https://github.com/Dor-sketch/sec_mmn11)
+- 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
-- [**Java Algorithms**](https://github.com/Dor-sketch/IntroToCS_mmn14)
-  - 🔍 Demonstrating basic Java capabilities and OOP principles.
-  - 🛠 `BlueJ` IDE, `Java`
-  - 🎓 _Course: "Introduction to Computer Science (20441)", The Open University of Israel._ Grade: `90`.
+<details>
+<summary>More Info</summary>
 
-<br/> 
+- 🔍 Emphasized on OOP, utilization of smart pointers, and STL containers.
+- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `96`.
+</details>
+    </td>
+    <td>
 
-🛠 Development Environment: Visual Studio Code (VSCode) | 🖥️ Operating System: Ubuntu 22.04
+### [🛡️ Security Demonstrations](https://github.com/Dor-sketch/ASLR-StackSecDemos)
+- 🏷️ `Security`, `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Detailed exploration of ASLR and stack overflow vulnerabilities.
+</details>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+
+### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
+- 🏷️ `Productivity`, `ExamSimulation`, `VoiceFunctionality`, `Python`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Crafted a dynamic timer simulating real exam conditions, enhanced with voice functionalities.
+- 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
+</details>
+    </td>
+    <td>
+
+### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
+- 🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Ubuntu1604`
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<details>
+<summary>More Info</summary>
+
+- 🔍 Dive into the intricacies of compiler architectures and the art of translating assembly code with precision.
+- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel. Achieved an impressive grade of `98`.
+
+</details>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+
+### [📚 Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
+- 🏷️ `Algorithms`, `DataStructures`, `Complexity`, `Java`, `BlueJIDE`
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<details>
+<summary>More Info</summary>
+
+- 🔍 A deep exploration of algorithms and data structures, demonstrating Java's capabilities and fundamental OOP principles.
+- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel. Proudly secured a grade of `90`.
+
+</details>
+    </td>
+    <td>
+
+### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
+- 🏷️ `Productivity`, `ReviewEnhancement`, `Python`, `AnkiAPI`, `JavaScript`
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<details>
+<summary>More Info</summary>
+
+- 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
+- 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
+
+</details>
+    </td>
+  </tr>
+
+</table>
+
+🛠 Development Environment: Visual Studio Code (VSCode)
+
+🖥️ Operating System:        Ubuntu 22.04
 
 ---
 
