@@ -39,8 +39,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   - 🛠 `C++`, `OpenSSL`, `Position-Independent Code (PIC)`, `GDB`
 
 - [**PsychoTimer**](https://github.com/Dor-sketch/PsychoTimer)
-  - 🔍 Recreating real exam environments, supplemented with voice functionalities.
-  - 🛠 `Python`, `threading`, `MacOS`, `Azure Cognitive Services`
+  - 🔍 A versatile timer for simulating real exam environments, complete with voice functionalities to guide you through each section. Unofficial tool for the Israeli standard exam.
+  - 🛠 `Python`, `Multi-threading`, `Cross-platform`, `Azure Voice API`, `Process Control`
+
 
 - [**Assembler**](https://github.com/Dor-sketch/openu_course20465_project)
   - 🔍 Thorough study of compiler architectures and translating assembly code.
