@@ -18,7 +18,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     <td>
 
 ### [🔒 Encrypted Communication System](https://github.com/Dor-sketch/EncryptedTCP) ⭐
-- 🏷️ `FlagshipProject`, `Security`, `Networking`, `Encryption`, `C++17`, `Python3`, `BoostAsio`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
+- 🏷️ `FlagshipProject`, `Security`, `Networking`, `Encryption`, `C++17`, `Python3`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
 
 <details>
 <summary>More Info</summary>
@@ -70,6 +70,19 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   <tr>
     <td>
       
+
+### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
+- 🏷️ `Productivity`, `ReviewEnhancement`, `Python`, `DOMManipulation`, `AnkiAPI`, `JavaScript`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
+<details>
+<summary>More Info</summary>
+
+- 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
+- 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
+
+</details>
+    </td>
+    <td>
+      
 ### [📚 USocial](https://github.com/Dor-sketch/sec_mmn11)
 - 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
@@ -78,18 +91,6 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 - 🔍 Emphasized on OOP, utilization of smart pointers, and STL containers.
 - 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `96`.
-</details>
-    </td>
-    <td>
-      
-### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
-- 🏷️ `Productivity`, `ReviewEnhancement`, `Python`, `AnkiAPI`, `JavaScript`
-<details>
-<summary>More Info</summary>
-
-- 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
-- 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
-
 </details>
     </td>
   </tr>
