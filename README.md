@@ -11,6 +11,17 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 ---
 
+### 📜 Education
+
+- **Bachelor of Computer Science (BSc)** (In Progress) | The Open University of Israel _(2019 - 2024)_
+  - Anticipated Graduation: `September 11, 2024` 
+  - Current GPA: `87`
+
+- **Bachelor of Laws (LLB) & Bachelor of Arts in Asian Studies** | The Hebrew University of Jerusalem _(2013 - 2017)_
+  - GPA: `84.33`
+
+---
+
 ## 📂 GitHub Projects
 
 <table class="projects-table">
@@ -83,7 +94,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     </td>
     <td>
       
-### [📚 USocial](https://github.com/Dor-sketch/sec_mmn11)
+### [👥 USocial](https://github.com/Dor-sketch/sec_mmn11)
 - 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
 <details>
@@ -98,7 +109,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   <tr>
     <td>
 
-### [📚 Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
+### [🧬 Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
 - 🏷️ `Algorithms`, `DataStructures`, `Complexity`, `Java`, `BlueJIDE`
 <details>
 <summary>More Info</summary>
@@ -121,26 +132,32 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 </details>
     </td>
   </tr>
+  <tr>
+  <td>
+
+### [🚀 LeetCode Solutions](https://github.com/Dor-sketch/LeetCode-Solutions)
+- 🏷️ `Algorithms`, `ProblemSolving`, `DataStructures`, `C++`, `Python`, `LeetCode`, `CodingChallenges`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 A comprehensive repository documenting my solutions to LeetCode challenges, with a focus on algorithms and data structures.
+- 🎓 An ongoing project that serves as a testament to my problem-solving skills and software engineering acumen as a senior student.
+- 📝 The repository is organized by difficulty and includes detailed explanations of time and space complexities for each solution.
+
+</details>
+  </td>
+  <td>
+    <!-- This cell is left empty for another project or to maintain the table format -->
+  </td>
+</tr>
+
 
 </table>
 
 🛠 Development Environment: Visual Studio Code (VSCode)
 
 🖥️ Operating System:        Ubuntu 22.04
-
----
-
-
-
-
-
-### 📜 Education
-
-- **Bachelor of Computer Science**, The Open University of Israel _(2019 - 2024)_
-  - GPA: `84`
-
-- **Bachelor of Laws & Arts in Asian Studies/Civilization**, The Hebrew University of Jerusalem _(2013 - 2017)_
-  - GPA: `84.33`
 
 ---
 
