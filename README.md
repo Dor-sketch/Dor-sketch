@@ -4,7 +4,10 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 📌 **Location**: Tel Aviv District, Israel
 
-![DALL·E 2023-11-09 10 48 52 - Craft a professional LinkedIn cover photo for a profile named Dor Pascal  The design should visually represent the intersection of the legal fie](https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f3dbf6c2-47a6-4686-a780-2888bdb681a5)
+---
+
+![image](https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81)
+
 
 ## 🌟 **About Me**
 * 📘 With a comprehensive legal tenure at the Israel Defense Forces, I've honed analytical and advisory skills which I'm eager to pair with my newfound passion for software development.
