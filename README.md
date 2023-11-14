@@ -140,15 +140,16 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   <tr>
   <td>
 
-### [🚀 LeetCode Solutions](https://github.com/Dor-sketch/LeetCode-Solutions)
-- 🏷️ `Algorithms`, `ProblemSolving`, `DataStructures`, `C++`, `Python`, `LeetCode`, `CodingChallenges`
+### [🚀📥 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
+- 🏷️ `Algorithms`, `ProblemSolving`, `DataStructures`, `C++`, `Python`, `LeetCode`, `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
 
 <details>
 <summary>More Info</summary>
 
-- 🔍 A comprehensive repository documenting my solutions to LeetCode challenges, with a focus on algorithms and data structures.
+- 🔍 Solutions, Algorithms & Automated Downloader: A comprehensive toolkit featuring my solutions to LeetCode challenges, with a focus on algorithms and data structures.
+- 🤖 Includes an innovative Python script with Selenium WebDriver, automating the download of accepted LeetCode solutions.
 - 🎓 An ongoing project that serves as a testament to my problem-solving skills and software engineering acumen as a senior student.
-- 📝 The repository is organized by difficulty and includes detailed explanations of time and space complexities for each solution.
+- 📝 The toolkit is systematically organized by difficulty and includes detailed explanations of time and space complexities for each solution, along with a neat directory structure for downloaded solutions.
 
 </details>
   </td>
@@ -156,7 +157,6 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     <!-- This cell is left empty for another project or to maintain the table format -->
   </td>
 </tr>
-
 
 </table>
 
