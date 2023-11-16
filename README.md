@@ -4,10 +4,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 📌 **Location**: Tel Aviv District, Israel
 
----
-
 ![image](https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81)
 
+---
 
 ## 🌟 **About Me**
 * 📘 With a comprehensive legal tenure at the Israel Defense Forces, I've honed analytical and advisory skills which I'm eager to pair with my newfound passion for software development.
