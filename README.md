@@ -32,7 +32,22 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   <tr class="flagship-row">
     <td>
 
-### [🔒 Encrypted Communication System](https://github.com/Dor-sketch/EncryptedTCP) ⭐
+### [🧙‍♂️ MetaDecorator](https://github.com/Dor-sketch/MetaDecorator)
+- 🏷️ `Metaprogramming`, `Python`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 A Python script for dynamically injecting decorators into class methods using a metaclass.
+- 🎓 Originally started as a course project for _Defensive System-Programming (20937)_ at the Open University of Israel, earning a grade of `100`.
+- 🔄 Since then, the code has been extensively modified and improved for greater flexibility and usability.
+- 📝 The project demonstrates advanced Python features like metaprogramming and dynamic code execution, making it a unique addition to any software developer's toolkit.
+
+</details>
+    </td>
+    <td>
+
+### [🔒 EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP) ⭐
 - 🏷️ `FlagshipProject`, `Security`, `Networking`, `Encryption`, `C++17`, `Python3`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
 
 <details>
@@ -80,9 +95,6 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 - 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
 </details>
     </td>
-  </tr>
-  
-  <tr>
     <td>
       
 
@@ -96,8 +108,11 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 </details>
     </td>
+  </tr>
+
+  <tr>
     <td>
-      
+
 ### [👥 USocial](https://github.com/Dor-sketch/sec_mmn11)
 - 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
@@ -108,9 +123,6 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 - 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `96`.
 </details>
     </td>
-  </tr>
-
-  <tr>
     <td>
 
 ### [🧬 Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
@@ -155,9 +167,12 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   <td>
     <!-- This cell is left empty for another project or to maintain the table format -->
   </td>
-</tr>
-
+  <td>
+    <!-- This cell is left empty for another project or to maintain the table format -->
+  </td>
+  </tr>
 </table>
+
 
 🛠 Development Environment: Visual Studio Code (VSCode)
 
