@@ -166,7 +166,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 Dive into the intricacies of compiler architectures and the art of translating assembly code with precision.
-- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel. Achieved an impressive grade of `98`.
+- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel (2022a). Achieved an impressive grade of `98`.
 
 </details>
     </td>
@@ -208,7 +208,18 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 </details>
   </td>
   <td>
-    <!-- This cell is left empty for another project or to maintain the table format -->
+
+### [ComplexCalculatorC](https://github.com/Dor-sketch/ComplexCalculatorC)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
+- 🏷️ `Math`, `ModularProgramming`, `ANSIC`, `Parsing`, `ComplexNumbers`, `UserInput`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 The program offers a user-friendly command-line interface, making it easy to input complex numbers and perform calculations.
+- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel (2022a). Achieved an impressive grade of `98`.
+
+</details>
   </td>
   </tr>
 </table>
