@@ -131,7 +131,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 A deep exploration of algorithms and data structures, demonstrating Java's capabilities and fundamental OOP principles.
-- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel. Proudly secured a grade of `90`.
+- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `90`.
 
 </details>
     </td>
@@ -165,7 +165,19 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 </details>
   </td>
   <td>
-    <!-- This cell is left empty for another project or to maintain the table format -->
+    
+### [📦 JavaBoxKit3D](https://github.com/Dor-sketch/JavaBoxKit3D)
+- 🏷️ `Java`, `3D Geometry`, `Object-Oriented Programming`, `Mathematics`, `Toolkit`
+<details>
+<summary>More Info</summary>
+
+- 🔍 Your toolkit for 3D geometry in Java. Explore a collection of Java classes for 3D geometric calculations, including `Point3D`, `Box3D`, `Matrix`, and `Collection`. Demonstrates object-oriented programming and mathematical prowess in the realm of 3D geometry.
+- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `94`.
+- 🌟 Features comprehensive use of Java's class and object management features, array manipulation, and methods for geometric calculations and transformations.
+- 📝 Well-documented code using Javadoc comments.
+- 🚀 Get started with this toolkit and elevate your 3D geometry projects in Java.
+
+</details>
   </td>
   <td>
     <!-- This cell is left empty for another project or to maintain the table format -->
