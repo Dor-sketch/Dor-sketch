@@ -33,7 +33,8 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     <td>
 
 ### [🧙‍♂️ MetaDecorator](https://github.com/Dor-sketch/MetaDecorator)
-- 🏷️ `Metaprogramming`, `Python`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/37a4546f-d967-40a6-9f54-d65c89949339)" width="25">](https://www.python.org/)
+- 🏷️ `Metaprogramming`, `Python3🐍`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
 
 <details>
 <summary>More Info</summary>
@@ -47,8 +48,10 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     </td>
     <td>
 
-### [🔒 EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP) ⭐
-- 🏷️ `FlagshipProject`, `Security`, `Networking`, `Encryption`, `C++17`, `Python3`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
+### [🔒 EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/37a4546f-d967-40a6-9f54-d65c89949339)" width="25">](https://www.python.org/)
+- 🏷️ `FlagshipProject⭐`, `Security`, `Networking`, `Encryption`, `C++17`, `Python3🐍`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
 
 <details>
 <summary>More Info</summary>
@@ -61,7 +64,10 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     <td>
 
 ### [🌐 Backup Server](https://github.com/Dor-sketch/sec_mmn14)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/37a4546f-d967-40a6-9f54-d65c89949339)" width="25">](https://www.python.org/)
 - 🏷️ `Networking`, `FileManagement`, `ServerClientDynamics`, `C++17`, `spdlog`, `BoostAsio`
+
 <details>
 <summary>More Info</summary>
 
@@ -75,6 +81,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     <td>
       
 ### [🛡️ Security Demonstrations](https://github.com/Dor-sketch/ASLR-StackSecDemos)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) 
 - 🏷️ `Security`, `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
 
 <details>
@@ -85,8 +92,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     </td>
     <td>
   
-### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
-- 🏷️ `Productivity`, `ExamSimulation`, `VoiceFunctionality`, `Python`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
+### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer) 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/37a4546f-d967-40a6-9f54-d65c89949339)" width="25">](https://www.python.org/)
+- 🏷️ `Productivity`, `ExamSimulation`, `VoiceFunctionality`, `Python3🐍`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
 
 <details>
 <summary>More Info</summary>
@@ -99,7 +107,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
       
 
 ### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
-- 🏷️ `Productivity`, `ReviewEnhancement`, `Python`, `DOMManipulation`, `AnkiAPI`, `JavaScript`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/37a4546f-d967-40a6-9f54-d65c89949339)" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="25">](https://www.javascript.com/)
+- 🏷️ `Productivity`, `ReviewEnhancement`, `Python3🐍`, `DOMManipulation`, `AnkiAPI`, `JavaScript`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
 <details>
 <summary>More Info</summary>
 
@@ -114,6 +124,8 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     <td>
 
 ### [👥 USocial](https://github.com/Dor-sketch/sec_mmn11)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) 
+
 - 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
 <details>
@@ -126,7 +138,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     <td>
 
 ### [🧬 Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
 - 🏷️ `Algorithms`, `DataStructures`, `Complexity`, `Java`, `BlueJIDE`
+
 <details>
 <summary>More Info</summary>
 
@@ -138,7 +152,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
     <td>
       
 ### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
 - 🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Ubuntu1604`
+
 <details>
 <summary>More Info</summary>
 
@@ -152,7 +168,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   <td>
 
 ### [🚀📥 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
-- 🏷️ `Algorithms`, `ProblemSolving`, `DataStructures`, `C++`, `Python`, `LeetCode`, `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/37a4546f-d967-40a6-9f54-d65c89949339)" width="25">](https://www.python.org/)
+- 🏷️ `Algorithms`, `ProblemSolving`, `DataStructures`, `C++`, `Python3🐍`, `LeetCode`, `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
 
 <details>
 <summary>More Info</summary>
@@ -167,7 +185,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   <td>
     
 ### [📦 JavaBoxKit3D](https://github.com/Dor-sketch/JavaBoxKit3D)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
 - 🏷️ `Java`, `3D Geometry`, `Object-Oriented Programming`, `Mathematics`, `Toolkit`
+
 <details>
 <summary>More Info</summary>
 
