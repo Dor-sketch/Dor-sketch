@@ -52,6 +52,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 ### [🔒 EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) 
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1d649705-9bd2-448d-aa15-af0748c1723a" width="70">](https://www.sqlite.org/index.html)
+
+
 
 - 🏷️ `FlagshipProject⭐`, `Security`, `Networking`, `Encryption`, `C++17`, `Python3🐍`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
 
