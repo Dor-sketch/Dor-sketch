@@ -209,18 +209,21 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   </td>
   <td>
 
-### [ComplexCalculatorC](https://github.com/Dor-sketch/ComplexCalculatorC)
+### [🔢 ComplexCalculatorC](https://github.com/Dor-sketch/ComplexCalculatorC)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
 - 🏷️ `Math`, `ModularProgramming`, `ANSIC`, `Parsing`, `ComplexNumbers`, `UserInput`
 
 <details>
 <summary>More Info</summary>
 
-- 🔍 The program offers a user-friendly command-line interface, making it easy to input complex numbers and perform calculations.
-- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel (2022a). Achieved an impressive grade of `98`.
+- 🔍 A C program designed for complex number calculations, showcasing modular programming and efficient parsing techniques.
+- 🌟 Features include operations like addition, subtraction, multiplication, and absolute value calculations on complex numbers.
+- 🎓 Developed as a part of the _System Programming Laboratory_ course at The Open University of Israel, scoring a `98`.
+- 💡 Emphasizes user-friendly interaction with a command-line interface for easy input and manipulation of complex numbers.
+- 🛠️ The project demonstrates a deep understanding of complex mathematical concepts, implemented in ANSI C.
 
 </details>
-  </td>
+</td>
   </tr>
 </table>
 
