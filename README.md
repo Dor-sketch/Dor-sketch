@@ -18,7 +18,6 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 ### 📜 Education
 
 - **Bachelor of Computer Science (BSc)** (In Progress) | The Open University of Israel _(2019 - 2024)_
-  - Anticipated Graduation: `September 11, 2024` 
   - Current GPA: `87`
 
 - **Bachelor of Laws (LLB) & Bachelor of Arts in Asian Studies** | The Hebrew University of Jerusalem _(2013 - 2017)_
