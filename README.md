@@ -225,6 +225,44 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 </details>
 </td>
   </tr>
+  <tr>
+  <td>
+    
+### [🔢 CBits](https://github.com/Dor-sketch/CBits)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
+- 🏷️ `C`, `BitManipulation`, `SystemCalls`, `xv6`, `Programming`, `ComputerScience`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 CBits: A C-based program focusing on bit manipulation and system calls in the xv6 environment. This repository demonstrates advanced bit operations and the implementation of a custom `ps` system call.
+- 🌟 Key features include bit-level operations, system call integration, and in-depth understanding of the xv6 kernel structure.
+- 🎓 Crafted as part of an in-depth exploration of Operating Systems and their core functionalities, reflecting my hands-on experience with kernel-level programming.
+- 💡 Provides a deep dive into low-level system interactions, offering practical examples of manipulating bits and customizing system calls in C.
+- 🛠️ An essential repository for those looking to understand or teach the intricate details of system-level programming in C, especially in educational and UNIX-like environments.
+
+</details>
+  </td>
+  <td>
+    
+  ### [🔍 XV6 'ps' System Call Implementation](https://github.com/Dor-sketch/xv6-ps-implementation)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/Xv6)
+- 🏷️ `Operating Systems`, `System Calls`, `XV6`, `Kernel Programming`, `C`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 An enhancement of the XV6 operating system with a custom 'ps' system call, crafted for the Operating Systems course at the Open University of Israel.
+- 📝 Key modifications include `ps.c` for user-space interface, updates in `user.h`, `proc.c`, `sysproc.c`, `Usys.S`, `syscall.c`, and `defs.h` for seamless integration of the new system call.
+- 🚀 Execution Flow: Initiated from user space, this system call delves into kernel-level execution to provide process state information.
+- 📊 Usage Guidelines: Invoke the `ps` command in the XV6 shell to view real-time process information.
+- 🌟 Testing & Compliance: Assigned syscall number 192; underwent rigorous tests for functionality, security, and stability.
+- 💡 Reflections: A blend of academic learning and practical application, culminating in a score of 98/100.
+
+</details>
+  </td>
+
+  
 </table>
 
 
