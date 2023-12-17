@@ -17,7 +17,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 ### 📜 Education
 
-- **Bachelor of Computer Science (BSc)** (In Progress) | The Open University of Israel _(2019 - 2024)_
+- **Bachelor of Computer Science (BSc)** | The Open University of Israel _(2019 - 2024)_
   - Current GPA: `87`
 
 - **Bachelor of Laws (LLB) & Bachelor of Arts in Asian Studies** | The Hebrew University of Jerusalem _(2013 - 2017)_
@@ -159,6 +159,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
       
 ### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
 - 🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Ubuntu1604`
 
 <details>
@@ -245,8 +246,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   </td>
   <td>
     
-  ### [🔍 XV6 'ps' System Call Implementation](https://github.com/Dor-sketch/xv6-ps-implementation)
+  ### [📞 XV6 'ps' System Call Implementation](https://github.com/Dor-sketch/xv6-ps-implementation)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/Xv6)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
 - 🏷️ `Operating Systems`, `System Calls`, `XV6`, `Kernel Programming`, `C`
 
 <details>
@@ -261,8 +263,24 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 </details>
   </td>
-
+  <td>
   
+### [🧮 MIPS Assembly Language Programs Collection](https://github.com/Dor-sketch/openu_course20471_asm)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
+
+- 🏷️ `Assembly Language`, `MIPS`, `Number Systems`, `String Manipulation`, `Linked List`
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 A collection of MIPS assembly language programs, including `q2` and `q3`, which were part of my coursework for the Computer Organization course (20471) at the Open University of Israel and earned a perfect score of `100`. The program `SumAndConvertInput` was a personal project that extended `q2` to handle user input and delve deeper into assembly programming.
+- 📚 The collection serves as an excellent resource for understanding assembly language, demonstrating practical applications in number systems, string manipulation, and linked list operations.
+- 🌟 Each program reflects a thorough grasp of assembly language principles, showcasing both academic rigor and personal exploration in programming.
+
+</details>
+  </td>
+  </tr>
+
 </table>
 
 
