@@ -304,21 +304,32 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <tr>
   <td>
 
-### [🔢 CBits](https://github.com/Dor-sketch/CBits)
+### [💾 Embedded C Concepts](https://github.com/Dor-sketch/CBits)
 <details>
 <summary>More Info</summary>
 
-- 🔍 CBits: A C-based program focusing on bit manipulation and system calls in the xv6 environment. This repository demonstrates advanced bit operations and the implementation of a custom `ps` system call.
-- 🌟 Key features include bit-level operations, system call integration, and in-depth understanding of the xv6 kernel structure.
-- 🎓 Crafted as part of an in-depth exploration of Operating Systems and their core functionalities, reflecting my hands-on experience with kernel-level programming.
-- 💡 Provides a deep dive into low-level system interactions, offering practical examples of manipulating bits and customizing system calls in C.
-- 🛠️ An essential repository for those looking to understand or teach the intricate details of system-level programming in C, especially in educational and UNIX-like environments.
+- 🔍 **CBits:** This C-based program suite in the repository is a comprehensive exploration of various embedded C concepts including bit manipulation, memory management, multi-threading, and system call implementation within the xv6 operating system environment. 
+
+- 🌟 **Key Features:**
+  - **Advanced Bit-Level Operations:** Offers sophisticated techniques for bit manipulation, crucial for performance optimization in low-level programming.
+  - **Custom Memory Management:** Features a custom implementation of `malloc` and `free` functions, demonstrating memory alignment techniques.
+  - **Inter-Process Communication:** Includes the PingPong program, showcasing IPC using UNIX pipes in xv6.
+  - **Multi-threading with POSIX Threads:** Demonstrates concurrent programming using POSIX threads for operations on shared resources.
+  - **Custom System Call Integration:** Illustrates the creation and integration of a custom `ps` system call within the xv6 kernel.
+  - **In-Depth xv6 Kernel Exploration:** Provides insights into the structure and functionalities of the xv6 kernel.
+
+- 🎓 **Educational and Practical Application:** This repository is a valuable educational tool designed for an in-depth study of Operating Systems and low-level programming. It provides practical examples and exercises for students and enthusiasts to learn kernel-level programming and understand system-level interactions in C.
+
+- 💡 **Practical Low-Level System Interactions:** The repository offers a hands-on experience with manipulating bits, customizing system calls, and understanding memory management in C. It's a valuable guide for understanding the interaction between software and hardware at the system level.
+
+- 🛠️ **Resource for System-Level Programming:** An essential resource for anyone looking to deepen their understanding of system-level programming in C. It's particularly useful for educators and learners in computer science, focusing on operating systems, kernel development, and low-level programming techniques.
 
 </details>
   </td>
-      <td>
+  <td>
 
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
+
   </td>
     <td>
 
@@ -359,7 +370,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
   <tr class="flagship-row">
   <td>
 
-### [🚀📥 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
+### [🚀 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
 <details>
 <summary>More Info</summary>
 
