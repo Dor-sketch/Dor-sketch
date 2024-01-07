@@ -104,6 +104,34 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
   </td>
   </tr>
+
+    <td>
+
+### [🎨 Pixel Art Editor](https://github.com/Dor-sketch/PythonPixelArt)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A Python-based pixel art editor with a focus on simplicity and creativity, enabling users to create and manipulate pixel art images with ease.
+- 🎓 Developed as a passion project to explore the realms of digital art and image processing in Python.
+- 🖌️ Features include pixel size adjustment, color palette management, transparency, and history tracking for undo/redo actions.
+- 📚 Utilizes advanced programming concepts combined with matplotlib for graphical rendering.
+
+</details>
+    </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+  </td>
+  <td>
+
+- 🏷️ `ImageProcessing`, `GUI`, `Matplotlib`, `Tkinter`
+
+  </td>
+</tr>
+</table>
+
+
 </table>
 
 ---
