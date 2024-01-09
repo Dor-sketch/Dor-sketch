@@ -491,7 +491,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 - :balance_scale: Legal Analysis and Litigation
 
 **Soft**:
-- 🧠 Cognitive Acumen: Psychometrics ('PET') score of `727` (top 3%)
+- 🧠 Cognitive Acumen: Psychometrics ('PET') score of `729` (top 2%)
 - 💪 Demonstrated Resilience & Adaptability
 - :books: Proven Autonomous Learning Abilities
 - :handshake: Leadership & Team Collaboration
