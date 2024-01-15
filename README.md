@@ -1,33 +1,28 @@
 # 🚀 **Dor Pascal**
 
-Hello and welcome! I'm a budding computer scientist with a deep-rooted legal background. My mission is to bridge the gap between law and technology, but for now, I'm focused on landing a role as a software engineering student.
-
-📌 **Location**: Tel Aviv District, Israel
-
 ![image](https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81)
 
----
+* 📌 **Location**: Tel Aviv District, Israel
 
-## 🌟 **About Me**
-* 📘 With a comprehensive legal tenure at the Israel Defense Forces, I've honed analytical and advisory skills which I'm eager to pair with my newfound passion for software development.
 * 💡 Proficient in `C`, `C++`, and `Python`, I'm committed to driving meaningful change through tech solutions.
-* 🎯 I'm actively seeking opportunities to apply my software skills, with a keen interest in software engineering roles. If you're searching for a candidate with a unique blend of expertise, I'd love to chat!
+
+* 🎯 Actively seeking opportunities to apply my software skills, with a keen interest in software engineering roles. If you're searching for a candidate with a unique blend of expertise, I'd love to chat!
+
+* 📘 With a comprehensive legal tenure at the Israel Defense Forces, I've honed analytical and advisory skills which I'm eager to pair with my newfound passion for software development.
+
+* 📜 Education
+  
+  - **Bachelor of Computer Science (BSc)** | The Open University of Israel _(2019 - 2024)_
+
+    - Current GPA: `87`
+
+  - **Bachelor of Laws (LLB) & Bachelor of Arts in Asian Studies** | The Hebrew University of Jerusalem _(2013 - 2017)_
+  
+    - GPA: `84.33`
 
 ---
 
-### 📜 Education
-
-- **Bachelor of Computer Science (BSc)** | The Open University of Israel _(2019 - 2024)_
-  - Current GPA: `87`
-
-- **Bachelor of Laws (LLB) & Bachelor of Arts in Asian Studies** | The Hebrew University of Jerusalem _(2013 - 2017)_
-  - GPA: `84.33`
-
----
-
-## 📂 GitHub Projects
-
-
+## 📂 Projects
 
 ### Advanced Python and Metaprogramming Projects
 
@@ -40,8 +35,11 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 A Python script for dynamically injecting decorators into class methods using a metaclass.
+
 - 🎓 Originally started as a course project for _Defensive System-Programming (20937)_ at the Open University of Israel, earning a grade of `100`.
+
 - 🔄 Since then, the code has been extensively modified and improved for greater flexibility and usability.
+
 - 📝 The project demonstrates advanced Python features like metaprogramming and dynamic code execution, making it a unique addition to any software developer's toolkit.
 
 </details>
@@ -66,6 +64,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 Crafted a dynamic timer simulating real exam conditions, enhanced with voice functionalities.
+
 - 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
 </details>
 
@@ -88,6 +87,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
+
 - 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
 
 </details>
@@ -112,8 +112,11 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 A Python-based pixel art editor with a focus on simplicity and creativity, enabling users to create and manipulate pixel art images with ease.
+
 - 🎓 Developed as a passion project to explore the realms of digital art and image processing in Python.
+
 - 🖌️ Features include pixel size adjustment, color palette management, transparency, and history tracking for undo/redo actions.
+
 - 📚 Utilizes advanced programming concepts combined with matplotlib for graphical rendering.
 
 </details>
@@ -148,7 +151,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 Developed a secure server-client framework for encrypted real-time communication.
+
 - 🎓 Course: _Defensive System-Programming, The Open University of Israel._ (Under Review)
+
 - 📝 This project represents my most significant technical challenge and achievement to date.
 </details>
 
@@ -176,6 +181,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 Focused on server-client dynamics and efficient file parsing.
+
 - 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `100`.
 </details>
 
@@ -225,6 +231,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 Emphasized on OOP, utilization of smart pointers, and STL containers.
+
 - 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `96`.
 
 </details>
@@ -257,6 +264,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 Dive into the intricacies of compiler architectures and the art of translating assembly code with precision.
+
 - 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel (2022a). Achieved an impressive grade of `98`.
 
 </details>
@@ -284,10 +292,15 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 An enhancement of the XV6 operating system with a custom 'ps' system call, crafted for the Operating Systems course at the Open University of Israel.
+
 - 📝 Key modifications include `ps.c` for user-space interface, updates in `user.h`, `proc.c`, `sysproc.c`, `Usys.S`, `syscall.c`, and `defs.h` for seamless integration of the new system call.
+
 - 🚀 Execution Flow: Initiated from user space, this system call delves into kernel-level execution to provide process state information.
+
 - 📊 Usage Guidelines: Invoke the `ps` command in the XV6 shell to view real-time process information.
+
 - 🌟 Testing & Compliance: Assigned syscall number 192; underwent rigorous tests for functionality, security, and stability.
+
 - 💡 Reflections: A blend of academic learning and practical application, culminating in a score of 98/100.
 
 </details>
@@ -311,9 +324,13 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 A C program designed for complex number calculations, showcasing modular programming and efficient parsing techniques.
+
 - 🌟 Features include operations like addition, subtraction, multiplication, and absolute value calculations on complex numbers.
+
 - 🎓 Developed as a part of the _System Programming Laboratory_ course at The Open University of Israel, scoring a `98`.
+
 - 💡 Emphasizes user-friendly interaction with a command-line interface for easy input and manipulation of complex numbers.
+
 - 🛠️ The project demonstrates a deep understanding of complex mathematical concepts, implemented in ANSI C.
 
 </details>
@@ -339,11 +356,17 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 - 🔍 **CBits:** This C-based program suite in the repository is a comprehensive exploration of various embedded C concepts including bit manipulation, memory management, multi-threading, and system call implementation within the xv6 operating system environment. 
 
 - 🌟 **Key Features:**
+
   - **Advanced Bit-Level Operations:** Offers sophisticated techniques for bit manipulation, crucial for performance optimization in low-level programming.
+
   - **Custom Memory Management:** Features a custom implementation of `malloc` and `free` functions, demonstrating memory alignment techniques.
+
   - **Inter-Process Communication:** Includes the PingPong program, showcasing IPC using UNIX pipes in xv6.
+
   - **Multi-threading with POSIX Threads:** Demonstrates concurrent programming using POSIX threads for operations on shared resources.
+
   - **Custom System Call Integration:** Illustrates the creation and integration of a custom `ps` system call within the xv6 kernel.
+
   - **In-Depth xv6 Kernel Exploration:** Provides insights into the structure and functionalities of the xv6 kernel.
 
 - 🎓 **Educational and Practical Application:** This repository is a valuable educational tool designed for an in-depth study of Operating Systems and low-level programming. It provides practical examples and exercises for students and enthusiasts to learn kernel-level programming and understand system-level interactions in C.
@@ -373,7 +396,9 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 A collection of MIPS assembly language programs, including `q2` and `q3`, which were part of my coursework for the Computer Organization course (20471) at the Open University of Israel and earned a perfect score of `100`. The program `SumAndConvertInput` was a personal project that extended `q2` to handle user input and delve deeper into assembly programming.
+
 - 📚 The collection serves as an excellent resource for understanding assembly language, demonstrating practical applications in number systems, string manipulation, and linked list operations.
+
 - 🌟 Each program reflects a thorough grasp of assembly language principles, showcasing both academic rigor and personal exploration in programming.
 
 </details>
@@ -403,8 +428,11 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 Solutions, Algorithms & Automated Downloader: A comprehensive toolkit featuring my solutions to LeetCode challenges, with a focus on algorithms and data structures.
+
 - 🤖 Includes an innovative Python script with Selenium WebDriver, automating the download of accepted LeetCode solutions.
+
 - 🎓 An ongoing project that serves as a testament to my problem-solving skills and software engineering acumen as a senior student.
+
 - 📝 The toolkit is systematically organized by difficulty and includes detailed explanations of time and space complexities for each solution, along with a neat directory structure for downloaded solutions.
 
 </details>
@@ -432,6 +460,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 A deep exploration of algorithms and data structures, demonstrating Java's capabilities and fundamental OOP principles.
+
 - 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `90`.
 
 </details>
@@ -457,9 +486,13 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 <summary>More Info</summary>
 
 - 🔍 Your toolkit for 3D geometry in Java. Explore a collection of Java classes for 3D geometric calculations, including `Point3D`, `Box3D`, `Matrix`, and `Collection`. Demonstrates object-oriented programming and mathematical prowess in the realm of 3D geometry.
+
 - 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `94`.
+
 - 🌟 Features comprehensive use of Java's class and object management features, array manipulation, and methods for geometric calculations and transformations.
+
 - 📝 Well-documented code using Javadoc comments.
+
 - 🚀 Get started with this toolkit and elevate your 3D geometry projects in Java.
 
 </details>
@@ -487,13 +520,19 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 ### 🤸 Skills
 
 **Technical**:
+
 - :keyboard: Programming: `C`, `C++`, `Python`
+
 - :balance_scale: Legal Analysis and Litigation
 
 **Soft**:
+
 - 🧠 Cognitive Acumen: Psychometrics ('PET') score of `729` (top 2%)
+
 - 💪 Demonstrated Resilience & Adaptability
+
 - :books: Proven Autonomous Learning Abilities
+
 - :handshake: Leadership & Team Collaboration
 
 ---
@@ -501,6 +540,7 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 ### Languages & Certifications
 
 - 🌎 Languages: 🇮🇱 Native | 🇺🇸 Fluent | 🇯🇵 Basic
+
 - ✅ `Israeli Bar Certified Lawyer`
 
 ---
@@ -520,6 +560,6 @@ Hello and welcome! I'm a budding computer scientist with a deep-rooted legal bac
 
 ### 📬 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dor-pascal)
-- 📞 `+972-545627171`
-- 📧 `dor.pascal@gmail.com`
+| 🔗 [LinkedIn](https://www.linkedin.com/in/dor-pascal) | 📞 `+972-545627171` | 📧 [dor.pascal@gmail.com](mailto:`dor.pascal@gmail.com`) |
+| :--                                                             | :--:         | ---: |
+
