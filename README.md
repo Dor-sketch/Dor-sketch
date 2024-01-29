@@ -58,6 +58,33 @@
     </tr>
   <td>
 
+### [🌍 Simulation Earth](https://github.com/Dor-sketch/SimulationEarth)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 A sophisticated simulation of Earth's ecosystems using cellular automata, modeling complex environmental interactions in a 2D grid.
+
+- 🎓 Developed for the "Biological Computation" class at the Open University of Israel, earning a perfect score of `100` in 2024.
+
+- 🌐 Demonstrates dynamic world modeling with real-time visualization and statistical analysis, offering insights into the interconnectedness of environmental factors.
+
+- 🧬 Showcases advanced Python programming techniques, including encapsulation, context managers, and custom Enums for dynamic rule-based logic.
+
+</details>
+    </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+    </td>
+    <td>
+
+- 🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
+
+    </td>
+  </tr>
+  <td>
+
 ### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
 
 <details>
