@@ -448,7 +448,36 @@
 
 <table class="projects-table5">
   <tr class="flagship-row">
-  <td>
+    <td>
+
+### [🧩 AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A thorough examination of AI search algorithms through the lens of the classic `8-Puzzle` problem. Implements `BFS`, `IDDFS`, `GBFS`, and `A*` search algorithms alongside a custom heuristic for `A*` and `GBFS`.
+
+- 🎓 Originally developed for the **20551 Introduction to Artificial Intelligence** course at the *Open University of Israel*, achieving a perfect score.
+
+- 🚀 Features both a user-friendly GUI and a command-line interface, making it accessible for a wide range of users.
+
+- 📝 The project not only showcases algorithmic problem-solving skills but also serves as a practical reference for understanding and applying AI search algorithms.
+
+</details>
+  
+  </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+  
+  </td>
+    <td>
+
+- 🏷️ `AI`, `SearchAlgorithms`, `8Puzzle`, `Python`, `GUI`, `CommandLine`
+
+    </td>
+  </tr>
+  <tr>
+    <td>
 
 ### [🚀 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
 <details>
