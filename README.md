@@ -450,6 +450,35 @@
   <tr class="flagship-row">
     <td>
 
+### [🧬 GameOfLifeAI](https://github.com/Dor-sketch/GameOfLifeAI)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A repository showcasing the application of genetic algorithms to Conway's Game of Life, exploring various configurations and optimization strategies.
+
+- 🧬 Implements genetic algorithms for evolving initial configurations, resulting in diverse and stable patterns over generations.
+
+- 📈 Insights into algorithm performance and behavior, including optimal parameters and notable patterns observed during execution.
+
+- 🛠️ Utilizes C++ for efficient simulation and exploration of cellular automata behavior.
+
+</details>
+  
+  </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+  
+  </td>
+    <td>
+
+- 🏷️ `GeneticAlgorithms`, `GameOfLife`, `C++`, `Optimization`
+
+    </td>
+  </tr>
+    <tr>
+    <td>
+
 ### [🧩 AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
 <details>
 <summary>More Info</summary>
@@ -511,7 +540,7 @@
   <tr>
       <td>
 
-### [🧬 Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
+### [☕ Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
 <details>
 <summary>More Info</summary>
 
