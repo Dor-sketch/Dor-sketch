@@ -11,20 +11,20 @@
 * 📘 With a comprehensive legal tenure at the Israel Defense Forces, I've honed analytical and advisory skills which I'm eager to pair with my newfound passion for software development.
 
 * 📜 Education
-  
-  - **Bachelor of Computer Science (BSc)** | The Open University of Israel _(2019 - 2024)_
 
-    - Current GPA: `87`
+  * **Bachelor of Computer Science (BSc)** | The Open University of Israel _(2019 - 2024)_
 
-  - **Bachelor of Laws (LLB) & Bachelor of Arts in Asian Studies** | The Hebrew University of Jerusalem _(2013 - 2017)_
-  
-    - GPA: `84.33`
+    * Current GPA: `87`
+
+  * **Bachelor of Laws (LLB) & Bachelor of Arts in Asian Studies** | The Hebrew University of Jerusalem _(2013 - 2017)_
+
+    * GPA: `84.33`
 
 ---
 
 ## 📂 Projects
 
-### Advanced Python and Metaprogramming Projects
+### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/) Advanced Python and Metaprogramming Projects
 
 <table class="projects-table2">
   <tr class="flagship-row">
@@ -46,12 +46,7 @@
 </td>
 <td>
 
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-</td>
-<td>
-
-- 🏷️ `Metaprogramming`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
+🏷️ `Metaprogramming`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
 
 
   </td>
@@ -75,12 +70,7 @@
     </td>
     <td>
 
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-    </td>
-    <td>
-
-- 🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
-
+🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
     </td>
   </tr>
   <td>
@@ -98,15 +88,10 @@
   </td>
     <td>
 
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-  </td>
-    <td>
-
-- 🏷️ `VoiceFunctionality`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
-
+🏷️ `VoiceFunctionality`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
     </td>
     </tr>
+    <tr>
   <td>
 
 ### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
@@ -119,19 +104,14 @@
 
 </details>
     </td>
-    <td>
-
+  <td>
+    
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="25">](https://www.javascript.com/)
 
-  </td>
-  <td>
-
-- 🏷️ `DOMManipulation`, `AnkiAPI`, `JavaScript`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
-
+🏷️ `DOMManipulation`, `AnkiAPI`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
   </td>
   </tr>
-
     <td>
 
 ### [🎨 Pixel Art Editor](https://github.com/Dor-sketch/PythonPixelArt)
@@ -147,26 +127,17 @@
 - 📚 Utilizes advanced programming concepts combined with matplotlib for graphical rendering.
 
 </details>
-    </td>
-    <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-  </td>
+ </td>
   <td>
 
-- 🏷️ `ImageProcessing`, `GUI`, `Matplotlib`, `Tkinter`
-
+🏷️ `ImageProcessing`, `GUI`, `Matplotlib`, `Tkinter`
   </td>
 </tr>
 </table>
 
-
-</table>
-
 ---
 
-### OOP, Networking and Security Projects
+### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) OOP, Networking and Security Projects
 
 <table class="projects-table3">
   <tr class="flagship-row">
@@ -191,10 +162,7 @@
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1d649705-9bd2-448d-aa15-af0748c1723a" width="70">](https://www.sqlite.org/index.html)
 
-  </td>
-  <td>
-
-- 🏷️ `FlagshipProject⭐`, `Encryption`, `C++17`, `Python3🐍`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
+🏷️ `FlagshipProject⭐`, `Encryption`, `C++17`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
 
 
   </td>
@@ -218,10 +186,7 @@
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 
-  </td>
-  <td>
-
-- 🏷️ `ServerClientDynamics`, `C++17`, `spdlog`, `BoostAsio`
+🏷️ `ServerClientDynamics`, `spdlog`, `BoostAsio`
 
   </td>
   </tr>
@@ -236,21 +201,14 @@
 
 - 🔍 Detailed exploration of ASLR and stack overflow vulnerabilities.
 </details>
-
   </td>
   <td>
 
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-
+🏷️ `Security`, `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
   </td>
-  <td>
-
-- 🏷️ `Security`, `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
-
-    </td>
   </tr>
   <tr>
-    <td>
+  <td>
 
 ### [👥 USocial](https://github.com/Dor-sketch/sec_mmn11)
 
@@ -262,16 +220,10 @@
 - 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `96`.
 
 </details>
-
   </td>
   <td>
 
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-
-  </td>
-  <td>
-
-- 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
+🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
   </td>
   </tr>
@@ -280,36 +232,29 @@
 
 ---
 
-### Operating Systems and Low-Level Programming Projects
+### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C) Operating Systems and Low-Level Programming Projects
 
 <table class="projects-table1">
   <tr class="flagship-row">
     <td>
 
-### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
-<details>
-<summary>More Info</summary>
+  ### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
+  <details>
+  <summary>More Info</summary>
 
 - 🔍 Dive into the intricacies of compiler architectures and the art of translating assembly code with precision.
 
 - 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel (2022a). Achieved an impressive grade of `98`.
 
-</details>
+  </details>
   </td>
-    <td>
-
+    <td>    
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
-
-  </td>
-    <td>
-
-- 🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Ubuntu1604`
-
-
+      
+🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Ubuntu1604`
     </td>
     </tr>
-
     <tr>
   <td>
 
@@ -332,15 +277,12 @@
 
 </details>
   </td>
-      <td>
-
+  <td>
+    
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/Xv6)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
-  </td>
-  <td>
 
-- 🏷️ `Operating Systems`, `System Calls`, `XV6`, `Kernel Programming`
-
+🏷️ `Operating Systems`, `System Calls`, `XV6`, `Kernel Programming`
   </td>
   </tr>
     <tr>
@@ -362,15 +304,11 @@
 
 </details>
   </td>
-      <td>
-
+  <td>
+    
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
 
-  </td>
-  <td>
-
-- 🏷️ `Math`, `ModularProgramming`, `ANSIC`, `Parsing`, `ComplexNumbers`, `UserInput`
-
+🏷️ `Math`, `ModularProgramming`, `ANSIC`, `Parsing`, `ComplexNumbers`, `UserInput`
 </td>
 </tr>
 <tr>
@@ -404,15 +342,11 @@
 
 </details>
   </td>
-  <td>
-
+    <td>
+      
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
 
-  </td>
-    <td>
-
-- 🏷️ `BitManipulation`, `SystemCalls`, `xv6`, `Programming`, `ComputerScience`
-
+🏷️ `BitManipulation`, `SystemCalls`, `xv6`, `Programming`, `ComputerScience`
   </td>
 </tr>
   <tr>
@@ -430,29 +364,26 @@
 
 </details>
   </td>
-      <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
-  </td>
     <td>
+    
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
 
-- 🏷️ `MIPS`, `Number Systems`, `String Manipulation`, `Linked List`
-
+🏷️ `MIPS`, `Number Systems`, `String Manipulation`, `Linked List`
   </td>
   </tr>
 </table>
 
 ---
 
-### Datat Structures & Algorithms
+### AI, Datat Structures & Algorithms
 
 <table class="projects-table5">
   <tr class="flagship-row">
     <td>
-
-### [🧬 GameOfLifeAI](https://github.com/Dor-sketch/GameOfLifeAI)
-<details>
-<summary>More Info</summary>
+      
+  ### [🧬 GameOfLifeAI](https://github.com/Dor-sketch/GameOfLifeAI)  
+  <details>
+  <summary>More Info</summary>
 
 - 🔍 A repository showcasing the application of genetic algorithms to Conway's Game of Life, exploring various configurations and optimization strategies.
 
@@ -461,22 +392,41 @@
 - 📈 Insights into algorithm performance and behavior, including optimal parameters and notable patterns observed during execution.
 
 - 🛠️ Utilizes C++ for efficient simulation and exploration of cellular automata behavior.
-
-</details>
   
-  </td>
+  </details>
+    </td>
     <td>
+      
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
 
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-  
-  </td>
-    <td>
-
-- 🏷️ `GeneticAlgorithms`, `GameOfLife`, `C++`, `Optimization`
-
+    🏷️ `GeneticAlgorithms`, `Optimization`, `EvolutionaryAlgorithm`, `Mutation`, `Crossover`
     </td>
   </tr>
-    <tr>
+  <tr>
+    <td>
+
+### [🌳 Learning Decision Trees](https://github.com/Dor-sketch/DecisionTreeAI)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A comprehensive Python implementation of decision trees, aimed at understanding and applying machine learning and AI principles.
+
+- 🌱 Converts Java-based algorithm to Python, maintaining the original structure and interface while achieving a perfect score in AI coursework.
+
+- 📊 Features practical examples, including tennis and loans datasets, to demonstrate the algorithm's versatility and accuracy.
+
+- 🛠️ Offers an in-depth look into algorithmic enhancements, data instance management, and dataset challenges, providing a rich learning resource.
+
+</details>
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `MachineLearning`, `DecisionTrees`, `AI`, `DataScience`, `Information-gain`, `Data-Mining`
+  </td>
+  </tr>
+  <tr>
     <td>
 
 ### [🧩 AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
@@ -492,18 +442,13 @@
 - 📝 The project not only showcases algorithmic problem-solving skills but also serves as a practical reference for understanding and applying AI search algorithms.
 
 </details>
-  
   </td>
     <td>
 
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-  
+
+🏷️ `SearchAlgorithms`, `BFS`, `DFS`, `DDFS`, `UCS`, `GBFS`, `OOP`
   </td>
-    <td>
-
-- 🏷️ `AI`, `SearchAlgorithms`, `8Puzzle`, `Python`, `GUI`, `CommandLine`
-
-    </td>
   </tr>
   <tr>
     <td>
@@ -521,24 +466,18 @@
 - 📝 The toolkit is systematically organized by difficulty and includes detailed explanations of time and space complexities for each solution, along with a neat directory structure for downloaded solutions.
 
 </details>
-
   </td>
-      <td>
+  <td>
 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
 
-  </td>
-      <td>
-
-- 🏷️ `Algorithms`, `ProblemSolving`, `DataStructures`, `LeetCode`, `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
-
-
+🏷️ `Algorithms`, `ProblemSolving`, `DataStructures`, `LeetCode`, `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
   </td>
   </tr>
   <tr>
-      <td>
+  <td>
 
 ### [☕ Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
 <details>
@@ -550,19 +489,14 @@
 
 </details>
   </td>
-      <td>
+    <td>
 
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
 
-  </td>
-      <td>
-
-- 🏷️ `Algorithms`, `DataStructures`, `Complexity`, `BlueJIDE`
-
-
+🏷️ `Old-Projects`, `Complexity`, `BlueJIDE`
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>
 
 ### [📦 JavaBoxKit3D](https://github.com/Dor-sketch/JavaBoxKit3D)
@@ -580,20 +514,15 @@
 
 - 🚀 Get started with this toolkit and elevate your 3D geometry projects in Java.
 
-</details>
+  </details>
   </td>
-  <td>
-
+    <td>
+    
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
 
-  </td>
-  <td>
-
-- 🏷️ `3D Geometry`, `Object-Oriented Programming`, `Mathematics`, `Toolkit`
-
-  </td>
+🏷️ `Old-Projecs`, `Mathematics`, `Toolkit`
+    </td>
   </tr>
-
 </table>
 
 🛠 Development Environment: Visual Studio Code (VSCode)
@@ -626,7 +555,7 @@
 
 - 🌎 Languages: 🇮🇱 Native | 🇺🇸 Fluent | 🇯🇵 Basic
 
-- ✅ `Israeli Bar Certified Lawyer`
+- ✅ `Israeli Bar Certified Lawyer` *January 2019*
 
 ---
 
@@ -644,7 +573,6 @@
 ---
 
 ### 📬 Contact
-
 | 🔗 [LinkedIn](https://www.linkedin.com/in/dor-pascal) | 📞 `+972-545627171` | 📧 [dor.pascal@gmail.com](mailto:`dor.pascal@gmail.com`) |
 | :--                                                             | :--:         | ---: |
 
