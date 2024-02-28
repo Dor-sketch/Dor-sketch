@@ -24,7 +24,345 @@
 
 ## 📂 Projects
 
-### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/) Advanced Python and Metaprogramming Projects
+### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) OOP, Networking and Security
+
+<table class="projects-table3">
+  <tr class="flagship-row">
+    <td>
+
+### [🔒 EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Developed a secure server-client framework for encrypted real-time communication.
+
+- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ (Under Review)
+
+- 📝 This project represents my most significant technical challenge and achievement to date.
+</details>
+
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1d649705-9bd2-448d-aa15-af0748c1723a" width="70">](https://www.sqlite.org/index.html)
+
+🏷️ `FlagshipProject⭐`, `C++17`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
+
+
+  </td>
+  </tr>
+  <tr>
+  <td>
+
+### [🌐 Backup Server](https://github.com/Dor-sketch/sec_mmn14)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Focused on server-client dynamics and efficient file parsing.
+
+- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `100`.
+</details>
+
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `ServerClientDynamics`, `spdlog`, `BoostAsio`
+
+  </td>
+  </tr>
+    <tr>
+      <td>
+
+
+### [🛡️ Security Demonstrations](https://github.com/Dor-sketch/ASLR-StackSecDemos)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Detailed exploration of ASLR and stack overflow vulnerabilities.
+</details>
+  </td>
+  <td>
+
+🏷️ `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
+  </td>
+  </tr>
+  <tr>
+  <td>
+
+### [👥 USocial](https://github.com/Dor-sketch/sec_mmn11)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Emphasized on OOP, utilization of smart pointers, and STL containers.
+
+- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `96`.
+
+</details>
+  </td>
+  <td>
+
+🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
+
+  </td>
+  </tr>
+
+</table>
+
+
+### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C) Operating Systems and Low-Level Programming
+
+<table class="projects-table1">
+  <tr class="flagship-row">
+    <td>
+
+  ### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
+  <details>
+  <summary>More Info</summary>
+
+- 🔍 Dive into the intricacies of compiler architectures and the art of translating assembly code with precision.
+
+- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel (2022a). Achieved an impressive grade of `98`.
+
+  </details>
+  </td>
+    <td>    
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
+      
+🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Binary-files`
+    </td>
+    </tr>
+    <tr>
+  <td>
+
+### [📞 XV6 'ps' Syscall Implementation](https://github.com/Dor-sketch/xv6-ps-implementation)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 An enhancement of the XV6 operating system with a custom 'ps' system call, crafted for the Operating Systems course at the Open University of Israel.
+
+- 📝 Key modifications include `ps.c` for user-space interface, updates in `user.h`, `proc.c`, `sysproc.c`, `Usys.S`, `syscall.c`, and `defs.h` for seamless integration of the new system call.
+
+- 🚀 Execution Flow: Initiated from user space, this system call delves into kernel-level execution to provide process state information.
+
+- 📊 Usage Guidelines: Invoke the `ps` command in the XV6 shell to view real-time process information.
+
+- 🌟 Testing & Compliance: Assigned syscall number 192; underwent rigorous tests for functionality, security, and stability.
+
+- 💡 Reflections: A blend of academic learning and practical application, culminating in a score of 98/100.
+
+</details>
+  </td>
+  <td>
+    
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/Xv6)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
+
+🏷️ `Operating Systems`, `System Calls`, `XV6`, `Kernel Programming`
+  </td>
+  </tr>
+    <tr>
+  <td>
+
+### [🔢 ComplexCalculatorC](https://github.com/Dor-sketch/ComplexCalculatorC)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A C program designed for complex number calculations, showcasing modular programming and efficient parsing techniques.
+
+- 🌟 Features include operations like addition, subtraction, multiplication, and absolute value calculations on complex numbers.
+
+- 🎓 Developed as a part of the _System Programming Laboratory_ course at The Open University of Israel, scoring a `98`.
+
+- 💡 Emphasizes user-friendly interaction with a command-line interface for easy input and manipulation of complex numbers.
+
+- 🛠️ The project demonstrates a deep understanding of complex mathematical concepts, implemented in ANSI C.
+
+</details>
+  </td>
+  <td>
+    
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
+
+🏷️ `Math`, `ModularProgramming`, `ANSIC`, `Parsing`, `Pipeline`
+</td>
+</tr>
+<tr>
+  <td>
+
+### [💾 Embedded C Concepts](https://github.com/Dor-sketch/CBits)
+<details>
+<summary>More Info</summary>
+
+- 🔍 **CBits:** This C-based program suite in the repository is a comprehensive exploration of various embedded C concepts including bit manipulation, memory management, multi-threading, and system call implementation within the xv6 operating system environment. 
+
+- 🌟 **Key Features:**
+
+  - **Advanced Bit-Level Operations:** Offers sophisticated techniques for bit manipulation, crucial for performance optimization in low-level programming.
+
+  - **Custom Memory Management:** Features a custom implementation of `malloc` and `free` functions, demonstrating memory alignment techniques.
+
+  - **Inter-Process Communication:** Includes the PingPong program, showcasing IPC using UNIX pipes in xv6.
+
+  - **Multi-threading with POSIX Threads:** Demonstrates concurrent programming using POSIX threads for operations on shared resources.
+
+  - **Custom System Call Integration:** Illustrates the creation and integration of a custom `ps` system call within the xv6 kernel.
+
+  - **In-Depth xv6 Kernel Exploration:** Provides insights into the structure and functionalities of the xv6 kernel.
+
+- 🎓 **Educational and Practical Application:** This repository is a valuable educational tool designed for an in-depth study of Operating Systems and low-level programming. It provides practical examples and exercises for students and enthusiasts to learn kernel-level programming and understand system-level interactions in C.
+
+- 💡 **Practical Low-Level System Interactions:** The repository offers a hands-on experience with manipulating bits, customizing system calls, and understanding memory management in C. It's a valuable guide for understanding the interaction between software and hardware at the system level.
+
+- 🛠️ **Resource for System-Level Programming:** An essential resource for anyone looking to deepen their understanding of system-level programming in C. It's particularly useful for educators and learners in computer science, focusing on operating systems, kernel development, and low-level programming techniques.
+
+</details>
+  </td>
+    <td>
+      
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
+
+🏷️ `BitManipulation`, `SystemCalls`, `xv6`, `Virtual Table`
+  </td>
+</tr>
+  <tr>
+    <td>
+
+### [🧮 MIPS Assembly Collection](https://github.com/Dor-sketch/openu_course20471_asm)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A collection of MIPS assembly language programs, including `q2` and `q3`, which were part of my coursework for the Computer Organization course (20471) at the Open University of Israel and earned a perfect score of `100`. The program `SumAndConvertInput` was a personal project that extended `q2` to handle user input and delve deeper into assembly programming.
+
+- 📚 The collection serves as an excellent resource for understanding assembly language, demonstrating practical applications in number systems, string manipulation, and linked list operations.
+
+- 🌟 Each program reflects a thorough grasp of assembly language principles, showcasing both academic rigor and personal exploration in programming.
+
+</details>
+  </td>
+    <td>
+    
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
+
+🏷️ `MIPS`, `Number Systems`, `String Manipulation`, `Linked List`
+  </td>
+  </tr>
+</table>
+
+
+### 🧠 AI, Machine Learning and Neural Networks
+
+<table class="projects-table5">
+  <tr class="flagship-row">
+    <td>
+      
+  ### [🧬 GameOfLifeAI](https://github.com/Dor-sketch/GameOfLifeAI)  
+  <details>
+  <summary>More Info</summary>
+
+- 🔍 A repository showcasing the application of genetic algorithms to Conway's Game of Life, exploring various configurations and optimization strategies.
+
+- 🧬 Implements genetic algorithms for evolving initial configurations, resulting in diverse and stable patterns over generations.
+
+- 📈 Insights into algorithm performance and behavior, including optimal parameters and notable patterns observed during execution.
+
+- 🛠️ Utilizes C++ for efficient simulation and exploration of cellular automata behavior.
+  
+  </details>
+    </td>
+    <td>
+      
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+
+    🏷️ `GeneticAlgorithms`, `Optimization`, `EvolutionaryAlgorithm`, `Gtk`
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+### [🌳 Learning Decision Trees](https://github.com/Dor-sketch/DecisionTreeAI)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A comprehensive Python implementation of decision trees, aimed at understanding and applying machine learning and AI principles.
+
+- 🌱 Converts Java-based algorithm to Python, maintaining the original structure and interface while achieving a perfect score in AI coursework.
+
+- 📊 Features practical examples, including tennis and loans datasets, to demonstrate the algorithm's versatility and accuracy.
+
+- 🛠️ Offers an in-depth look into algorithmic enhancements, data instance management, and dataset challenges, providing a rich learning resource.
+
+</details>
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `DecisionTrees`, `DataScience`, `Information-gain`, `Entropy`, `NetworkX`
+  </td>
+  </tr>
+  <tr>
+    <td>
+
+### [💡 PerceptualBinaryClassifier](https://github.com/Dor-sketch/PerceptualBinaryClassifier)
+<details>
+<summary>More Info</summary>
+
+- 🔍 Implements a neural network of two single-layer perceptrons for classifying 21-digit binary numbers based on the count of 'ones'.
+
+- 🧠 Showcases fundamental concepts of perceptron-based classification including weight initialization, prediction, training, and plotting decision boundaries.
+
+- 🖥️ Features an interactive GUI for easy interaction, prediction, and visualization of the perceptron classifier.
+
+- 📚 A demonstration of practical machine learning algorithms application, part of my software engineering portfolio.
+
+</details>
+  </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `NeuralNetworks`, `Perceptron`, `BinaryClassification`, `Numpy`
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+### [🧩 AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A thorough examination of AI search algorithms through the lens of the classic `8-Puzzle` problem. Implements `BFS`, `IDDFS`, `GBFS`, and `A*` search algorithms alongside a custom heuristic for `A*` and `GBFS`.
+
+- 🎓 Originally developed for the **20551 Introduction to Artificial Intelligence** course at the *Open University of Israel*, achieving a perfect score.
+
+- 🚀 Features both a user-friendly GUI and a command-line interface, making it accessible for a wide range of users.
+
+- 📝 The project not only showcases algorithmic problem-solving skills but also serves as a practical reference for understanding and applying AI search algorithms.
+
+</details>
+  </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `SearchAlgorithms`, `BFS`, `DFS`, `DDFS`, `UCS`, `GBFS`, `OOP`
+  </td>
+  </tr>
+</table>
+
+
+### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/) Advanced Python and Metaprogramming
 
 <table class="projects-table2">
   <tr class="flagship-row">
@@ -130,327 +468,15 @@
  </td>
   <td>
 
-🏷️ `ImageProcessing`, `GUI`, `Matplotlib`, `Tkinter`
+🏷️ `ImageProcessing`, `Matplotlib`, `Tkinter`
   </td>
 </tr>
 </table>
 
----
+### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/) Datat Structures & Algorithms
 
-### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) OOP, Networking and Security Projects
-
-<table class="projects-table3">
+<table class="projects-table6">
   <tr class="flagship-row">
-    <td>
-
-### [🔒 EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Developed a secure server-client framework for encrypted real-time communication.
-
-- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ (Under Review)
-
-- 📝 This project represents my most significant technical challenge and achievement to date.
-</details>
-
-  </td>
-  <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1d649705-9bd2-448d-aa15-af0748c1723a" width="70">](https://www.sqlite.org/index.html)
-
-🏷️ `FlagshipProject⭐`, `Encryption`, `C++17`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
-
-
-  </td>
-  </tr>
-  <tr>
-  <td>
-
-### [🌐 Backup Server](https://github.com/Dor-sketch/sec_mmn14)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Focused on server-client dynamics and efficient file parsing.
-
-- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `100`.
-</details>
-
-  </td>
-  <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `ServerClientDynamics`, `spdlog`, `BoostAsio`
-
-  </td>
-  </tr>
-    <tr>
-      <td>
-
-
-### [🛡️ Security Demonstrations](https://github.com/Dor-sketch/ASLR-StackSecDemos)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Detailed exploration of ASLR and stack overflow vulnerabilities.
-</details>
-  </td>
-  <td>
-
-🏷️ `Security`, `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
-  </td>
-  </tr>
-  <tr>
-  <td>
-
-### [👥 USocial](https://github.com/Dor-sketch/sec_mmn11)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Emphasized on OOP, utilization of smart pointers, and STL containers.
-
-- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `96`.
-
-</details>
-  </td>
-  <td>
-
-🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
-
-  </td>
-  </tr>
-
-</table>
-
----
-
-### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C) Operating Systems and Low-Level Programming Projects
-
-<table class="projects-table1">
-  <tr class="flagship-row">
-    <td>
-
-  ### [🔧 Assembler](https://github.com/Dor-sketch/openu_course20465_project)
-  <details>
-  <summary>More Info</summary>
-
-- 🔍 Dive into the intricacies of compiler architectures and the art of translating assembly code with precision.
-
-- 🎓 Pursued as part of the _System Programming Laboratory_ at The Open University of Israel (2022a). Achieved an impressive grade of `98`.
-
-  </details>
-  </td>
-    <td>    
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
-      
-🏷️ `Compilers`, `AssemblyCode`, `ANSIC`, `32bit`, `Ubuntu1604`
-    </td>
-    </tr>
-    <tr>
-  <td>
-
-### [📞 XV6 'ps' System Call Implementation](https://github.com/Dor-sketch/xv6-ps-implementation)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 An enhancement of the XV6 operating system with a custom 'ps' system call, crafted for the Operating Systems course at the Open University of Israel.
-
-- 📝 Key modifications include `ps.c` for user-space interface, updates in `user.h`, `proc.c`, `sysproc.c`, `Usys.S`, `syscall.c`, and `defs.h` for seamless integration of the new system call.
-
-- 🚀 Execution Flow: Initiated from user space, this system call delves into kernel-level execution to provide process state information.
-
-- 📊 Usage Guidelines: Invoke the `ps` command in the XV6 shell to view real-time process information.
-
-- 🌟 Testing & Compliance: Assigned syscall number 192; underwent rigorous tests for functionality, security, and stability.
-
-- 💡 Reflections: A blend of academic learning and practical application, culminating in a score of 98/100.
-
-</details>
-  </td>
-  <td>
-    
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/Xv6)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
-
-🏷️ `Operating Systems`, `System Calls`, `XV6`, `Kernel Programming`
-  </td>
-  </tr>
-    <tr>
-  <td>
-
-### [🔢 ComplexCalculatorC](https://github.com/Dor-sketch/ComplexCalculatorC)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A C program designed for complex number calculations, showcasing modular programming and efficient parsing techniques.
-
-- 🌟 Features include operations like addition, subtraction, multiplication, and absolute value calculations on complex numbers.
-
-- 🎓 Developed as a part of the _System Programming Laboratory_ course at The Open University of Israel, scoring a `98`.
-
-- 💡 Emphasizes user-friendly interaction with a command-line interface for easy input and manipulation of complex numbers.
-
-- 🛠️ The project demonstrates a deep understanding of complex mathematical concepts, implemented in ANSI C.
-
-</details>
-  </td>
-  <td>
-    
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
-
-🏷️ `Math`, `ModularProgramming`, `ANSIC`, `Parsing`, `ComplexNumbers`, `UserInput`
-</td>
-</tr>
-<tr>
-  <td>
-
-### [💾 Embedded C Concepts](https://github.com/Dor-sketch/CBits)
-<details>
-<summary>More Info</summary>
-
-- 🔍 **CBits:** This C-based program suite in the repository is a comprehensive exploration of various embedded C concepts including bit manipulation, memory management, multi-threading, and system call implementation within the xv6 operating system environment. 
-
-- 🌟 **Key Features:**
-
-  - **Advanced Bit-Level Operations:** Offers sophisticated techniques for bit manipulation, crucial for performance optimization in low-level programming.
-
-  - **Custom Memory Management:** Features a custom implementation of `malloc` and `free` functions, demonstrating memory alignment techniques.
-
-  - **Inter-Process Communication:** Includes the PingPong program, showcasing IPC using UNIX pipes in xv6.
-
-  - **Multi-threading with POSIX Threads:** Demonstrates concurrent programming using POSIX threads for operations on shared resources.
-
-  - **Custom System Call Integration:** Illustrates the creation and integration of a custom `ps` system call within the xv6 kernel.
-
-  - **In-Depth xv6 Kernel Exploration:** Provides insights into the structure and functionalities of the xv6 kernel.
-
-- 🎓 **Educational and Practical Application:** This repository is a valuable educational tool designed for an in-depth study of Operating Systems and low-level programming. It provides practical examples and exercises for students and enthusiasts to learn kernel-level programming and understand system-level interactions in C.
-
-- 💡 **Practical Low-Level System Interactions:** The repository offers a hands-on experience with manipulating bits, customizing system calls, and understanding memory management in C. It's a valuable guide for understanding the interaction between software and hardware at the system level.
-
-- 🛠️ **Resource for System-Level Programming:** An essential resource for anyone looking to deepen their understanding of system-level programming in C. It's particularly useful for educators and learners in computer science, focusing on operating systems, kernel development, and low-level programming techniques.
-
-</details>
-  </td>
-    <td>
-      
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
-
-🏷️ `BitManipulation`, `SystemCalls`, `xv6`, `Programming`, `ComputerScience`
-  </td>
-</tr>
-  <tr>
-    <td>
-
-### [🧮 MIPS Assembly Language Programs Collection](https://github.com/Dor-sketch/openu_course20471_asm)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A collection of MIPS assembly language programs, including `q2` and `q3`, which were part of my coursework for the Computer Organization course (20471) at the Open University of Israel and earned a perfect score of `100`. The program `SumAndConvertInput` was a personal project that extended `q2` to handle user input and delve deeper into assembly programming.
-
-- 📚 The collection serves as an excellent resource for understanding assembly language, demonstrating practical applications in number systems, string manipulation, and linked list operations.
-
-- 🌟 Each program reflects a thorough grasp of assembly language principles, showcasing both academic rigor and personal exploration in programming.
-
-</details>
-  </td>
-    <td>
-    
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/e5516ea7-8ceb-4c82-8df7-812c365b1180" width="40">](https://en.wikipedia.org/wiki/Assembly_language)
-
-🏷️ `MIPS`, `Number Systems`, `String Manipulation`, `Linked List`
-  </td>
-  </tr>
-</table>
-
----
-
-### AI, Datat Structures & Algorithms
-
-<table class="projects-table5">
-  <tr class="flagship-row">
-    <td>
-      
-  ### [🧬 GameOfLifeAI](https://github.com/Dor-sketch/GameOfLifeAI)  
-  <details>
-  <summary>More Info</summary>
-
-- 🔍 A repository showcasing the application of genetic algorithms to Conway's Game of Life, exploring various configurations and optimization strategies.
-
-- 🧬 Implements genetic algorithms for evolving initial configurations, resulting in diverse and stable patterns over generations.
-
-- 📈 Insights into algorithm performance and behavior, including optimal parameters and notable patterns observed during execution.
-
-- 🛠️ Utilizes C++ for efficient simulation and exploration of cellular automata behavior.
-  
-  </details>
-    </td>
-    <td>
-      
-    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-
-    🏷️ `GeneticAlgorithms`, `Optimization`, `EvolutionaryAlgorithm`, `Mutation`, `Crossover`
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-### [🌳 Learning Decision Trees](https://github.com/Dor-sketch/DecisionTreeAI)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A comprehensive Python implementation of decision trees, aimed at understanding and applying machine learning and AI principles.
-
-- 🌱 Converts Java-based algorithm to Python, maintaining the original structure and interface while achieving a perfect score in AI coursework.
-
-- 📊 Features practical examples, including tennis and loans datasets, to demonstrate the algorithm's versatility and accuracy.
-
-- 🛠️ Offers an in-depth look into algorithmic enhancements, data instance management, and dataset challenges, providing a rich learning resource.
-
-</details>
-  </td>
-  <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `MachineLearning`, `DecisionTrees`, `AI`, `DataScience`, `Information-gain`, `Data-Mining`
-  </td>
-  </tr>
-  <tr>
-    <td>
-
-### [🧩 AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A thorough examination of AI search algorithms through the lens of the classic `8-Puzzle` problem. Implements `BFS`, `IDDFS`, `GBFS`, and `A*` search algorithms alongside a custom heuristic for `A*` and `GBFS`.
-
-- 🎓 Originally developed for the **20551 Introduction to Artificial Intelligence** course at the *Open University of Israel*, achieving a perfect score.
-
-- 🚀 Features both a user-friendly GUI and a command-line interface, making it accessible for a wide range of users.
-
-- 📝 The project not only showcases algorithmic problem-solving skills but also serves as a practical reference for understanding and applying AI search algorithms.
-
-</details>
-  </td>
-    <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `SearchAlgorithms`, `BFS`, `DFS`, `DDFS`, `UCS`, `GBFS`, `OOP`
-  </td>
-  </tr>
-  <tr>
     <td>
 
 ### [🚀 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
@@ -473,7 +499,7 @@
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 
-🏷️ `Algorithms`, `ProblemSolving`, `DataStructures`, `LeetCode`, `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
+🏷️ `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
   </td>
   </tr>
   <tr>
@@ -490,8 +516,6 @@
 </details>
   </td>
     <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
 
 🏷️ `Old-Projects`, `Complexity`, `BlueJIDE`
     </td>
@@ -518,9 +542,7 @@
   </td>
     <td>
     
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
-
-🏷️ `Old-Projecs`, `Mathematics`, `Toolkit`
+🏷️ `Old-Projects`, `Mathematics`, `Toolkit`
     </td>
   </tr>
 </table>
