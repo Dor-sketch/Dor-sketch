@@ -24,7 +24,7 @@
 
 ## 📂 Projects
 
-### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/) OOP, Networking and Security
+### OOP, Networking and Security
 
 <table class="projects-table3">
   <tr class="flagship-row">
@@ -90,7 +90,9 @@
 </details>
   </td>
   <td>
-
+   
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+   
 🏷️ `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
   </td>
   </tr>
@@ -109,7 +111,9 @@
 </details>
   </td>
   <td>
-
+   
+  [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+  
 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
   </td>
@@ -117,8 +121,9 @@
 
 </table>
 
+<br>
 
-### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C) Operating Systems and Low-Level Programming
+### Operating Systems and Low-Level Programming
 
 <table class="projects-table1">
   <tr class="flagship-row">
@@ -259,6 +264,7 @@
   </tr>
 </table>
 
+<br>
 
 ### 🧠 AI, Machine Learning and Neural Networks
 
@@ -287,6 +293,30 @@
     🏷️ `GeneticAlgorithms`, `Optimization`, `EvolutionaryAlgorithm`, `Gtk`
     </td>
   </tr>
+  <tr>
+  <td>
+
+### [🌸 IrisNetRBM](https://github.com/Dor-sketch/IrisNetRBM)
+<details>
+<summary>More Info</summary>
+
+- 🔍 An advanced implementation of Restricted Boltzmann Machines (RBM) for the classification of the Iris dataset, demonstrating the potential of generative learning in machine learning and AI.
+
+- 🌐 Features a custom-built RBM model using Python and NumPy, without reliance on external libraries, emphasizing the project's focus on understanding and applying core machine learning principles.
+
+- 🎨 Includes a user-friendly GUI application for easy interaction with the model, facilitating dataset management, model training, and visualization of learning progress.
+
+- 📚 Part of a project for the Biological Computation course at the Open University of Israel, showcasing practical applications of RBMs in classifying complex datasets.
+
+</details>
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `RBM`, `GenerativeLearning`, `MachineLearning`, `Python`, `NumPy`
+  </td>
+</tr>
   <tr>
     <td>
 
@@ -361,8 +391,9 @@
   </tr>
 </table>
 
+<br>
 
-### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/) Advanced Python and Metaprogramming
+### Advanced Python and Metaprogramming
 
 <table class="projects-table2">
   <tr class="flagship-row">
@@ -383,9 +414,11 @@
 </details>
 </td>
 <td>
+ 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
 
 🏷️ `Metaprogramming`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
-
 
   </td>
     </tr>
@@ -407,7 +440,9 @@
 </details>
     </td>
     <td>
-
+     
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+     
 🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
     </td>
   </tr>
@@ -425,6 +460,8 @@
 
   </td>
     <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 
 🏷️ `VoiceFunctionality`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
     </td>
@@ -468,12 +505,16 @@
  </td>
   <td>
 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
 🏷️ `ImageProcessing`, `Matplotlib`, `Tkinter`
   </td>
 </tr>
 </table>
 
-### [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/) Datat Structures & Algorithms
+<br>
+
+### Datat Structures & Algorithms
 
 <table class="projects-table6">
   <tr class="flagship-row">
@@ -516,7 +557,9 @@
 </details>
   </td>
     <td>
-
+     
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
+     
 🏷️ `Old-Projects`, `Complexity`, `BlueJIDE`
     </td>
   </tr>
@@ -541,6 +584,8 @@
   </details>
   </td>
     <td>
+     
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
     
 🏷️ `Old-Projects`, `Mathematics`, `Toolkit`
     </td>
