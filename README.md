@@ -1,12 +1,15 @@
+<p align="center">
+  <img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81". width = 900>
+</p>
+
 # 🚀 **Dor Pascal**
 
-![image](https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81)
 
 * 📌 **Location**: Tel Aviv District, Israel
 
 * 💡 Proficient in `C`, `C++`, and `Python`, I'm committed to driving meaningful change through tech solutions.
 
-* 🎯 Actively seeking opportunities to apply my software skills, with a keen interest in software engineering roles. If you're searching for a candidate with a unique blend of expertise, I'd love to chat!
+* 🎯 Actively seeking opportunities to apply my software skills, with a keen interest in software engineering roles.
 
 * 📘 With a comprehensive legal tenure at the Israel Defense Forces, I've honed analytical and advisory skills which I'm eager to pair with my newfound passion for software development.
 
