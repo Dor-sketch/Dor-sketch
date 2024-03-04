@@ -392,6 +392,30 @@
 🏷️ `SearchAlgorithms`, `BFS`, `DFS`, `DDFS`, `UCS`, `GBFS`, `OOP`
   </td>
   </tr>
+  <tr>
+    <td>
+      
+  ### [🔬 CrossFinder](https://github.com/Dor-sketch/CrossFinder)
+<details>
+<summary>More Info</summary>
+
+- 🔍 CrossFinder is a unique variant of Conway's Game of Life, focused on identifying and transforming cross shapes within a grid. It introduces innovative states and rules to detect and interact with these patterns dynamically.
+
+- 🧩 Tailored for the "Biological Computation" course at the Open University of Israel, this project addresses problem 28 from the book **Biological Computation** by Ehud Lamm and Ron Unger, showcasing the application of computational concepts to biological problems.
+
+- 🌟 Achieved a perfect score for its ingenuity in problem-solving and its ability to merge computational principles with biological insights.
+
+- 🛠️ The program is a fusion of creativity and technical skill, demonstrating advanced algorithmic thinking and offering a new perspective on cellular automata.
+
+</details>
+  </td>
+    <td>
+  
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `CellularAutomata`, `CrossPatternDetection`, `Python`, `Numpy`, `Matplotlib`
+  </td>
+  </tr>
 </table>
 
 <br>
