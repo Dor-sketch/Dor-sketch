@@ -269,7 +269,7 @@
 
 <br>
 
-### 🧠 AI, Machine Learning and Neural Networks
+### AI, Machine Learning and Neural Networks
 
 <table class="projects-table5">
   <tr class="flagship-row">
@@ -344,6 +344,30 @@
 🏷️ `DecisionTrees`, `DataScience`, `Information-gain`, `Entropy`, `NetworkX`
   </td>
   </tr>
+  <tr>
+  <td>
+
+### [🧠 HopfieldNetCore](https://github.com/Dor-sketch/HopfieldNetCore)
+<details>
+<summary>More Info</summary>
+
+- 🔍 An interactive GUI for visualizing and experimenting with Hopfield networks, a type of recurrent neural network used for associative memory.
+
+- 📊 Features real-time manipulation of neuron states, dynamic visualization of network states, and the ability to store and retrieve patterns.
+
+- 📚 Incorporates a range of tools and functionalities like pattern addition, state reset, energy calculation, and more, providing a comprehensive understanding of Hopfield networks.
+
+- 🧬 Designed to offer educational insights into neural network dynamics, allowing users to explore concepts such as energy landscapes, convergence, and pattern stability.
+
+</details>
+</td>
+<td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `HopfieldNetwork`, `NeuralNetworks`, `Matplotlib`, `NetworkX`
+</td>
+</tr>
   <tr>
     <td>
 
