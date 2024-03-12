@@ -40,8 +40,6 @@
 
 - 🔍 Developed a secure server-client framework for encrypted real-time communication.
 
-- 🎓 Course: _Defensive System-Programming, The Open University of Israel._ (Under Review)
-
 - 📝 This project represents my most significant technical challenge and achievement to date.
 </details>
 
