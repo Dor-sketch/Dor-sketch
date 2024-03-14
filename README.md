@@ -567,9 +567,8 @@
 
 <table class="projects-table6">
   <tr class="flagship-row">
-     <tr class="flagship-row">
     <td>
-
+      
 ### [👾 Minimax Strategy Game](https://github.com/Dor-sketch/MiniGame)
 <details>
 <summary>More Info</summary>
