@@ -567,6 +567,33 @@
 
 <table class="projects-table6">
   <tr class="flagship-row">
+     <tr class="flagship-row">
+    <td>
+
+### [👾 Minimax Strategy Game](https://github.com/Dor-sketch/MiniGame)
+<details>
+<summary>More Info</summary>
+
+- 🔍 **Minimax Algorithm & Strategy Visualization**: This project showcases a strategic stone-taking game against a computer, utilizing the minimax algorithm for decision making and NetworkX for visualizing the strategy tree.
+
+- 📈 **Graph Theory Application**: Through NetworkX, the project demonstrates an advanced application of graph theory in visualizing decision trees, aiding in understanding the algorithm's decision-making process.
+
+- 🤖 **Interactive Gameplay with Tkinter**: Incorporates Tkinter for the GUI, providing an interactive platform for gameplay and algorithm visualization.
+
+- 🎓 **Educational Tool**: Serves as an educational tool for understanding minimax algorithms and their applications in game theory and AI.
+
+- 📝 **Comprehensive Documentation**: Includes detailed explanations of the algorithm, code comments, and a guide on running the game and visualizing the strategy tree.
+
+</details>
+</td>
+<td>
+  
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `MinimaxAlgorithm`, `GraphVisualization`, `TkinterGUI`, `NetworkX`
+</td>
+</tr>
+<tr>
     <td>
 
 ### [🚀 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
