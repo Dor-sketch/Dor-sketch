@@ -290,6 +290,7 @@
     <td>
       
     [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/47888b5b-b42a-41da-abd9-d5b9713bbf0f" width="25">](https://www.gtk.org/)
 
     🏷️ `GeneticAlgorithms`, `Optimization`, `EvolutionaryAlgorithm`, `Gtk`
     </td>
@@ -393,7 +394,7 @@
   <tr>
     <td>
 
-### [🧩 AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
+### [🎱 AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
 <details>
 <summary>More Info</summary>
 
@@ -569,7 +570,7 @@
   <tr class="flagship-row">
     <td>
       
-### [👾 Minimax Strategy Game](https://github.com/Dor-sketch/MiniGame)
+### [👾 Deep Dark Blue Mini Max](https://github.com/Dor-sketch/DeepDarkBlueMiniMax)
 <details>
 <summary>More Info</summary>
 
@@ -592,6 +593,35 @@
 🏷️ `MinimaxAlgorithm`, `GraphVisualization`, `TkinterGUI`, `NetworkX`
 </td>
 </tr>
+<tr>
+    <td>
+
+### [🧩 AlphaSudokuGo](https://github.com/Dor-sketch/AlphaSudokuGo)
+<details>
+<summary>More Info</summary>
+
+- 🔍 **Advanced AI Techniques**: Employs constraint satisfaction and backtracking algorithms, alongside AI strategies, to efficiently solve Sudoku puzzles of any difficulty.
+
+- 🤖 **Interactive GUI Experience**: Features an interactive GTK5 GUI, allowing users to seamlessly input puzzles, visualize the solving process in real time, and engage with the solver in an intuitive manner.
+
+- 🚀 **C++ and GTK5 Integration**: Demonstrates the power of C++ for core algorithm implementation, enhanced with a modern GTK5 interface for a user-friendly experience.
+
+- 🎓 **Educational Insight**: Provides a unique opportunity to explore advanced algorithmic and AI concepts through the lens of Sudoku solving, making it an excellent tool for learning and experimentation.
+
+- 📝 **Open Source Collaboration**: Encourages contributions and is designed as an open-source project to foster community involvement and continuous improvement.
+
+</details>
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/47888b5b-b42a-41da-abd9-d5b9713bbf0f" width="25">](https://www.gtk.org/)
+
+🏷️ `ConstraintSatisfaction`, `Backtracking`, `AI`, `GTK5GUI`
+  </td>
+</tr>
+
+
 <tr>
     <td>
 
