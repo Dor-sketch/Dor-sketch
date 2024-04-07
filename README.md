@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81". width = 900>
+  <img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81". width = 700>
 </p>
 
 # 🚀 **Dor Pascal**
@@ -15,20 +15,16 @@
 
 * 📜 Education
 
-  * **Bachelor of Computer Science (BSc)** | The Open University of Israel _(2019 - 2024)_
-
-    * Current GPA: `87`
+  * **Bachelor of Computer Science (BSc)** | The Open University of Israel _(2019 - 2024)_ Current GPA: `87`
 
   * **Bachelor of Laws (LLB) & Bachelor of Arts in Asian Studies** | The Hebrew University of Jerusalem _(2013 - 2017)_
-
-    * GPA: `84.33`
 
 ---
 
 ## 📂 Projects
 
-### OOP, Networking and Security
-
+<details>
+<summary>OOP, Networking and Security</summary>
 <table class="projects-table3">
   <tr class="flagship-row">
     <td>
@@ -78,6 +74,129 @@
 
   </td>
   </tr>
+</table>
+
+<!-- Collapsible section -->
+<details>
+<summary>👉 More OOP, Networking and Security</summary>
+
+<!-- New table for additional projects -->
+<table class="projects-table3">
+  <tr>
+  <td>
+
+### [🌍 Simulation Earth](https://github.com/Dor-sketch/SimulationEarth)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 A sophisticated simulation of Earth's ecosystems using cellular automata, modeling complex environmental interactions in a 2D grid.
+
+- 🎓 Developed for the "Biological Computation" class at the Open University of Israel, earning a perfect score of `100` in 2024.
+
+- 🌐 Demonstrates dynamic world modeling with real-time visualization and statistical analysis, offering insights into the interconnectedness of environmental factors.
+
+- 🧬 Showcases advanced Python programming techniques, including encapsulation, context managers, and custom Enums for dynamic rule-based logic.
+
+</details>
+    </td>
+    <td>
+     
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+     
+🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
+    </td>
+  </tr>
+  <td>
+
+### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Crafted a dynamic timer simulating real exam conditions, enhanced with voice functionalities.
+
+- 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
+</details>
+
+  </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `VoiceFunctionality`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
+    </td>
+    </tr>
+    <tr>
+    <td>
+
+### [🧙‍♂️ MetaDecorator](https://github.com/Dor-sketch/MetaDecorator)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A Python script for dynamically injecting decorators into class methods using a metaclass.
+
+- 🎓 Originally started as a course project for _Defensive System-Programming (20937)_ at the Open University of Israel, earning a grade of `100`.
+
+- 🔄 Since then, the code has been extensively modified and improved for greater flexibility and usability.
+
+- 📝 The project demonstrates advanced Python features like metaprogramming and dynamic code execution, making it a unique addition to any software developer's toolkit.
+
+</details>
+</td>
+<td>
+ 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+
+🏷️ `Metaprogramming`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
+
+  </td>
+  </tr>
+    <tr>
+      <td>
+
+### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
+
+- 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
+
+</details>
+    </td>
+  <td>
+    
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="25">](https://www.javascript.com/)
+
+🏷️ `DOMManipulation`, `AnkiAPI`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
+  </td>
+  </tr>
+    <td>
+
+### [🎨 Pixel Art Editor](https://github.com/Dor-sketch/PythonPixelArt)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A Python-based pixel art editor with a focus on simplicity and creativity, enabling users to create and manipulate pixel art images with ease.
+
+- 🎓 Developed as a passion project to explore the realms of digital art and image processing in Python.
+
+- 🖌️ Features include pixel size adjustment, color palette management, transparency, and history tracking for undo/redo actions.
+
+- 📚 Utilizes advanced programming concepts combined with matplotlib for graphical rendering.
+
+</details>
+ </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `ImageProcessing`, `Matplotlib`, `Tkinter`
+  </td>
+</tr>
     <tr>
       <td>
 
@@ -119,13 +238,38 @@
 
   </td>
   </tr>
+      <tr>
+      <td>
+        
+### [🚀 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
+<details>
+<summary>More Info</summary>
 
+- 🔍 Solutions, Algorithms & Automated Downloader: A comprehensive toolkit featuring my solutions to LeetCode challenges, with a focus on algorithms and data structures.
+
+- 🤖 Includes an innovative Python script with Selenium WebDriver, automating the download of accepted LeetCode solutions.
+
+- 🎓 An ongoing project that serves as a testament to my problem-solving skills and software engineering acumen as a senior student.
+
+- 📝 The toolkit is systematically organized by difficulty and includes detailed explanations of time and space complexities for each solution, along with a neat directory structure for downloaded solutions.
+
+</details>
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
+  </td>
+  </tr>
 </table>
+</details>
+</details>
 
-<br>
-
-### Operating Systems and Low-Level Programming
-
+<details>
+<summary>Operating Systems and Low-Level Programming</summary>
 <table class="projects-table1">
   <tr class="flagship-row">
     <td>
@@ -177,8 +321,15 @@
 🏷️ `Operating Systems`, `System Calls`, `XV6`, `Kernel Programming`
   </td>
   </tr>
+</table>
+<!-- Collapsible section -->
+<details>
+<summary>👉 More Operating Systems and Low-Level Programming</summary>
+
+<!-- New table for additional projects -->
+<table class="projects-table3">
     <tr>
-  <td>
+      <td>
 
 ### [🔢 ComplexCalculatorC](https://github.com/Dor-sketch/ComplexCalculatorC)
 <details>
@@ -263,12 +414,60 @@
 🏷️ `MIPS`, `Number Systems`, `String Manipulation`, `Linked List`
   </td>
   </tr>
+  
+  <tr>
+  <td>
+
+### [☕ Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
+<details>
+<summary>More Info</summary>
+
+- 🔍 A deep exploration of algorithms and data structures, demonstrating Java's capabilities and fundamental OOP principles.
+
+- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `90`.
+
+</details>
+  </td>
+    <td>
+     
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
+     
+🏷️ `Old-Projects`, `Complexity`, `BlueJIDE`
+    </td>
+  </tr>
+  <tr>
+    <td>
+
+### [📦 JavaBoxKit3D](https://github.com/Dor-sketch/JavaBoxKit3D)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Your toolkit for 3D geometry in Java. Explore a collection of Java classes for 3D geometric calculations, including `Point3D`, `Box3D`, `Matrix`, and `Collection`. Demonstrates object-oriented programming and mathematical prowess in the realm of 3D geometry.
+
+- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `94`.
+
+- 🌟 Features comprehensive use of Java's class and object management features, array manipulation, and methods for geometric calculations and transformations.
+
+- 📝 Well-documented code using Javadoc comments.
+
+- 🚀 Get started with this toolkit and elevate your 3D geometry projects in Java.
+
+  </details>
+  </td>
+    <td>
+     
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
+    
+🏷️ `Old-Projects`, `Mathematics`, `Toolkit`
+    </td>
+  </tr>
 </table>
+</details>
+</details>
 
-<br>
-
-### AI, Machine Learning and Neural Networks
-
+<details>
+<summary>AI, Machine Learning and Neural Networks</summary>
 <table class="projects-table5">
   <tr class="flagship-row">
     <td>
@@ -321,8 +520,15 @@
 🏷️ `RBM`, `GenerativeLearning`, `MachineLearning`, `Python`, `NumPy`
   </td>
 </tr>
-  <tr>
-    <td>
+</table>
+<!-- Collapsible section -->
+<details>
+<summary>👉 More AI, Machine Learning and Neural Networks</summary>
+
+<!-- New table for additional projects -->
+<table class="projects-table3">
+    <tr>
+      <td>
 
 ### [🌳 Learning Decision Trees](https://github.com/Dor-sketch/DecisionTreeAI)
 <details>
@@ -441,135 +647,7 @@
 🏷️ `CellularAutomata`, `CrossPatternDetection`, `Python`, `Numpy`, `Matplotlib`
   </td>
   </tr>
-</table>
-
-<br>
-
-### Advanced Python and Metaprogramming
-
-<table class="projects-table2">
-  <tr class="flagship-row">
-    <td>
-
-### [🧙‍♂️ MetaDecorator](https://github.com/Dor-sketch/MetaDecorator)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A Python script for dynamically injecting decorators into class methods using a metaclass.
-
-- 🎓 Originally started as a course project for _Defensive System-Programming (20937)_ at the Open University of Israel, earning a grade of `100`.
-
-- 🔄 Since then, the code has been extensively modified and improved for greater flexibility and usability.
-
-- 📝 The project demonstrates advanced Python features like metaprogramming and dynamic code execution, making it a unique addition to any software developer's toolkit.
-
-</details>
-</td>
-<td>
- 
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-
-🏷️ `Metaprogramming`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
-
-  </td>
-    </tr>
-  <td>
-
-### [🌍 Simulation Earth](https://github.com/Dor-sketch/SimulationEarth)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 A sophisticated simulation of Earth's ecosystems using cellular automata, modeling complex environmental interactions in a 2D grid.
-
-- 🎓 Developed for the "Biological Computation" class at the Open University of Israel, earning a perfect score of `100` in 2024.
-
-- 🌐 Demonstrates dynamic world modeling with real-time visualization and statistical analysis, offering insights into the interconnectedness of environmental factors.
-
-- 🧬 Showcases advanced Python programming techniques, including encapsulation, context managers, and custom Enums for dynamic rule-based logic.
-
-</details>
-    </td>
-    <td>
-     
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-     
-🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
-    </td>
-  </tr>
-  <td>
-
-### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Crafted a dynamic timer simulating real exam conditions, enhanced with voice functionalities.
-
-- 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
-</details>
-
-  </td>
-    <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `VoiceFunctionality`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
-    </td>
-    </tr>
     <tr>
-  <td>
-
-### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
-
-- 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
-
-</details>
-    </td>
-  <td>
-    
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="25">](https://www.javascript.com/)
-
-🏷️ `DOMManipulation`, `AnkiAPI`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
-  </td>
-  </tr>
-    <td>
-
-### [🎨 Pixel Art Editor](https://github.com/Dor-sketch/PythonPixelArt)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A Python-based pixel art editor with a focus on simplicity and creativity, enabling users to create and manipulate pixel art images with ease.
-
-- 🎓 Developed as a passion project to explore the realms of digital art and image processing in Python.
-
-- 🖌️ Features include pixel size adjustment, color palette management, transparency, and history tracking for undo/redo actions.
-
-- 📚 Utilizes advanced programming concepts combined with matplotlib for graphical rendering.
-
-</details>
- </td>
-  <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `ImageProcessing`, `Matplotlib`, `Tkinter`
-  </td>
-</tr>
-</table>
-
-<br>
-
-### Datat Structures & Algorithms
-
-<table class="projects-table6">
-  <tr class="flagship-row">
     <td>
       
 ### [👾 Deep Dark Blue Mini Max](https://github.com/Dor-sketch/DeepDarkBlueMiniMax)
@@ -624,86 +702,9 @@
 🏷️ `ConstraintSatisfaction`, `CSP`, `AI`, `Qt5`, `Propagation`, `AC-3`
   </td>
 </tr>
-
-
-<tr>
-    <td>
-
-### [🚀 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
-<details>
-<summary>More Info</summary>
-
-- 🔍 Solutions, Algorithms & Automated Downloader: A comprehensive toolkit featuring my solutions to LeetCode challenges, with a focus on algorithms and data structures.
-
-- 🤖 Includes an innovative Python script with Selenium WebDriver, automating the download of accepted LeetCode solutions.
-
-- 🎓 An ongoing project that serves as a testament to my problem-solving skills and software engineering acumen as a senior student.
-
-- 📝 The toolkit is systematically organized by difficulty and includes detailed explanations of time and space complexities for each solution, along with a neat directory structure for downloaded solutions.
-
-</details>
-  </td>
-  <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/82ad7fbb-2447-44b4-b4dd-6649883db628" width="25">](https://en.wikipedia.org/wiki/ANSI_C)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
-  </td>
-  </tr>
-  <tr>
-  <td>
-
-### [☕ Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A deep exploration of algorithms and data structures, demonstrating Java's capabilities and fundamental OOP principles.
-
-- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `90`.
-
-</details>
-  </td>
-    <td>
-     
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
-     
-🏷️ `Old-Projects`, `Complexity`, `BlueJIDE`
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-### [📦 JavaBoxKit3D](https://github.com/Dor-sketch/JavaBoxKit3D)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Your toolkit for 3D geometry in Java. Explore a collection of Java classes for 3D geometric calculations, including `Point3D`, `Box3D`, `Matrix`, and `Collection`. Demonstrates object-oriented programming and mathematical prowess in the realm of 3D geometry.
-
-- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `94`.
-
-- 🌟 Features comprehensive use of Java's class and object management features, array manipulation, and methods for geometric calculations and transformations.
-
-- 📝 Well-documented code using Javadoc comments.
-
-- 🚀 Get started with this toolkit and elevate your 3D geometry projects in Java.
-
-  </details>
-  </td>
-    <td>
-     
-    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
-    
-🏷️ `Old-Projects`, `Mathematics`, `Toolkit`
-    </td>
-  </tr>
 </table>
-
-🛠 Development Environment: Visual Studio Code (VSCode)
-
-🖥️ Operating System:        Ubuntu 22.04
+</details>
+</details>
 
 ---
 
