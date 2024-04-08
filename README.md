@@ -74,14 +74,6 @@
 
   </td>
   </tr>
-</table>
-
-<!-- Collapsible section -->
-<details>
-<summary>👉 More OOP, Networking and Security</summary>
-
-<!-- New table for additional projects -->
-<table class="projects-table3">
   <tr>
   <td>
 
@@ -321,13 +313,6 @@
 🏷️ `Operating Systems`, `System Calls`, `XV6`, `Kernel Programming`
   </td>
   </tr>
-</table>
-<!-- Collapsible section -->
-<details>
-<summary>👉 More Operating Systems and Low-Level Programming</summary>
-
-<!-- New table for additional projects -->
-<table class="projects-table3">
     <tr>
       <td>
 
@@ -417,51 +402,6 @@
   
   <tr>
   <td>
-
-### [☕ Java Algorithms](https://github.com/Dor-sketch/IntroToCS_mmn14)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A deep exploration of algorithms and data structures, demonstrating Java's capabilities and fundamental OOP principles.
-
-- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `90`.
-
-</details>
-  </td>
-    <td>
-     
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
-     
-🏷️ `Old-Projects`, `Complexity`, `BlueJIDE`
-    </td>
-  </tr>
-  <tr>
-    <td>
-
-### [📦 JavaBoxKit3D](https://github.com/Dor-sketch/JavaBoxKit3D)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Your toolkit for 3D geometry in Java. Explore a collection of Java classes for 3D geometric calculations, including `Point3D`, `Box3D`, `Matrix`, and `Collection`. Demonstrates object-oriented programming and mathematical prowess in the realm of 3D geometry.
-
-- 🎓 Undertaken during the _Introduction to Computer Science_ module at The Open University of Israel (2019b). Proudly secured a grade of `94`.
-
-- 🌟 Features comprehensive use of Java's class and object management features, array manipulation, and methods for geometric calculations and transformations.
-
-- 📝 Well-documented code using Javadoc comments.
-
-- 🚀 Get started with this toolkit and elevate your 3D geometry projects in Java.
-
-  </details>
-  </td>
-    <td>
-     
-    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/81912d46-bce3-4b6b-9e76-83dc556c0f74" width="25">](https://www.java.com/en/)
-    
-🏷️ `Old-Projects`, `Mathematics`, `Toolkit`
-    </td>
-  </tr>
 </table>
 </details>
 </details>
@@ -520,13 +460,6 @@
 🏷️ `RBM`, `GenerativeLearning`, `MachineLearning`, `Python`, `NumPy`
   </td>
 </tr>
-</table>
-<!-- Collapsible section -->
-<details>
-<summary>👉 More AI, Machine Learning and Neural Networks</summary>
-
-<!-- New table for additional projects -->
-<table class="projects-table3">
     <tr>
       <td>
 
