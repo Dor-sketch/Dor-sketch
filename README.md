@@ -4,6 +4,7 @@
 
 # 🚀 **Dor Pascal**
 
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/dor-pascal/)[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:dor.pascal@gmail.com)[<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white">](https://leetcode.com/Dor-sketch)
 
 * 📌 **Location**: Tel Aviv District, Israel
 
@@ -669,7 +670,8 @@
 
 ---
 
-### 💼 Professional Journey
+<details>
+<summary>💼 Professional Journey</summary>
 
 - **Legal Advisor to the Human Resources Directorate**, Israel Defense Forces _(Oct 2020 - Apr 2023)_
   - Offered guidance to personnel on complex legal issues.
@@ -680,9 +682,5 @@
 - **Aide to the Spokesperson for Legal Affairs**, Israel Defense Forces _(Sep 2017 - Apr 2019)_
   - Managed media relations and created press briefings.
 
----
-
-### 📬 Contact
-| 🔗 [LinkedIn](https://www.linkedin.com/in/dor-pascal) | 📞 `+972-545627171` | 📧 [dor.pascal@gmail.com](mailto:`dor.pascal@gmail.com`) |
-| :--                                                             | :--:         | ---: |
+</details>
 
