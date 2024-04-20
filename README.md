@@ -400,9 +400,6 @@
 🏷️ `MIPS`, `Number Systems`, `String Manipulation`, `Linked List`
   </td>
   </tr>
-  
-  <tr>
-  <td>
 </table>
 </details>
 </details>
