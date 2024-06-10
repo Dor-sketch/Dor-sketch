@@ -117,6 +117,8 @@
 
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="25">](https://www.javascript.com/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1d649705-9bd2-448d-aa15-af0748c1723a" width="70">](https://www.sqlite.org/index.html)
+
 
 🏷️ `DOMManipulation`, `AnkiAPI`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
 
