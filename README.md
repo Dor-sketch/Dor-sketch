@@ -4,7 +4,10 @@
 
 # 🚀 **Dor Pascal**
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/dor-pascal/)[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:dor.pascal@gmail.com)[<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white">](https://leetcode.com/Dor-sketch)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/dor-pascal/)[![itch.io badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://dor-sketch.itch.io/)[<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white">](https://leetcode.com/Dor-sketch)[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:dor.pascal@gmail.com)
+
+
+
 
 * 📌 **Location**: Tel Aviv District, Israel
 
@@ -427,7 +430,7 @@
     <td>
       
     [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/47888b5b-b42a-41da-abd9-d5b9713bbf0f" width="25">](https://www.gtk.org/)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/47888b5b-b42a-41da-abd9-d5b9713bbf0f" width="30">](https://www.gtk.org/)
     [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1bdf14d9-9256-4492-905f-e5686cec4f02" width="25">](https://en.wikipedia.org/wiki/CSS)
 
 
@@ -502,6 +505,8 @@
 <td>
 
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/8queens)
 
 🏷️ `HopfieldNetwork`, `NeuralNetworks`, `Matplotlib`, `NetworkX`
 </td>
@@ -524,7 +529,7 @@
 </details>
   </td>
     <td>
-
+      
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 
 🏷️ `NeuralNetworks`, `Perceptron`, `BinaryClassification`, `Numpy`
@@ -547,9 +552,13 @@
 
 </details>
   </td>
-    <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+  <td>
+    
+  [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1bdf14d9-9256-4492-905f-e5686cec4f02" width="25">](https://en.wikipedia.org/wiki/CSS)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/15-puzzle)
 
 🏷️ `SearchAlgorithms`, `BFS`, `DFS`, `DDFS`, `UCS`, `GBFS`, `OOP`
   </td>
@@ -626,7 +635,7 @@
   <td>
 
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/65393401-9274-49bd-b721-c8c0d4ab335b" width="25">](https://en.wikipedia.org/wiki/Qt_(software))
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/65393401-9274-49bd-b721-c8c0d4ab335b" width="35">](https://en.wikipedia.org/wiki/Qt_(software))
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1bdf14d9-9256-4492-905f-e5686cec4f02" width="25">](https://en.wikipedia.org/wiki/CSS)
 
 
@@ -636,6 +645,122 @@
 </table>
 </details>
 </details>
+
+<details>
+<summary>Multimedia Application Development</summary>
+<table class="projects-table1">
+  <tr class="flagship-row">
+    <td>
+
+  ### [🎵 AudioVisualSynth](https://github.com/Dor-sketch/AudioVisualSynth)
+  <details>
+  <summary>More Info</summary>
+
+- 🔍 An interactive audio-visual synthesizer that combines 3D graphics rendering, MIDI-based audio synthesis, and a dynamic particle system to create a captivating multimedia experience.
+- 🎓 Developed using Python with libraries such as Pygame, OpenGL, and NumPy.
+- 🌟 Features include:
+  - 3D Cube Visualization: Renders a cube with edges that react to the music.
+  - MIDI Note Playback: Uses keyboard inputs to generate MIDI sounds.
+  - Color Mapping: Visualizes MIDI notes with corresponding colors through a particle system.
+  - Dynamic Particle System: Particles move and change in response to music, providing a visual representation of the audio.
+  - Music Sheets Images Processing: Converts music sheet images to MIDI notes (beta).
+
+  </details>
+  </td>
+    <td>    
+    
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/audiovisualsynth)
+
+🏷️ `Python`, `Multimedia`, `Audio Synthesis`, `3D Graphics`, `Real-time Processing`
+    </td>
+    </tr>
+<tr>
+  <td>
+
+  ### [⛏️ Supreme Miner](https://github.com/Dor-sketch/supreme-miner)
+  <details>
+  <summary>More Info</summary>
+
+- 🔍 An implementation of the classic Gold Miner game using Python and Pygame.
+- 🌟 Features include:
+  - Real-time game dynamics with gold and rock objects to be mined.
+  - Dynamic background and object image loading.
+  - Interactive gameplay with swinging and retracting mechanisms.
+  - Scorekeeping and object interaction (grabbing and carrying).
+- 🎓 Developed as a part of a personal project to demonstrate game development skills with a focus on real-time interaction and graphical processing.
+
+  </details>
+  </td>
+    <td>    
+    
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/miriminer)
+
+🏷️ `Python`, `Game Development`, `Real-time Processing`, `Graphics`, `Interactive Gameplay`
+    </td>
+</tr>
+<tr>
+  <td>
+
+  ### [💻 TM (Turing Machine Simulator)](https://github.com/Dor-sketch/TM)
+  <details>
+  <summary>More Info</summary>
+
+- 🔍 A Turing Machine simulator with a graphical user interface (GUI) built using the Pygame library.
+- 🌟 Features include:
+  - Turing Machine Simulation: Simulates a Turing Machine with customizable states and transitions.
+  - Graphical Interface: Displays the Turing Machine tape, head, and state transitions.
+  - Particle System: Adds visual effects to the simulation.
+  - MIDI Integration: Converts MIDI files into Turing Machine transitions.
+  - CSV Loading: Loads Turing Machine transitions from CSV files.
+  - Dynamic Graph Theme: Changes the theme of the state transition graph based on the current time.
+- 🎓 Developed as a comprehensive project to integrate computational theory with multimedia capabilities, showcasing the use of Turing Machines in a visually engaging manner.
+
+  </details>
+  </td>
+    <td>    
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+
+🏷️ `Python`, `Turing Machine`, `Simulation`, `Graphics`, `MIDI Integration`
+    </td>
+</tr>
+
+<tr>
+  <td>
+
+  ### [🎲 Snakes and Ladders](https://github.com/Dor-sketch/Snakes_ladders)
+  <details>
+  <summary>More Info</summary>
+
+- 🔍 An implementation of the classic Snakes and Ladders game with a twist - it incorporates musical notes that are played as the players move across the board.
+- 🌟 Features include:
+  - Classic Snakes and Ladders gameplay.
+  - Musical notes played based on player positions.
+  - Graphical user interface using GTK.
+  - Optional MIDI file support for generating notes.
+- 🎓 Developed using C++ with GTK for the GUI, showcasing game development skills combined with multimedia elements.
+
+  </details>
+  </td>
+    <td>    
+    
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/47888b5b-b42a-41da-abd9-d5b9713bbf0f" width="35">](https://www.gtk.org/)
+
+🏷️ `C++`, `Game Development`, `GTK`, `MIDI Integration`, `Interactive Gameplay`
+    </td>
+</tr>
+
+
+    
+</table>
+</details>
+
 
 ---
 
