@@ -28,19 +28,19 @@
 ## 📂 Projects
 
 <details>
-<summary>OOP, Networking and Security</summary>
+<summary>Networking and Security</summary>
 <table class="projects-table3">
   <tr class="flagship-row">
     <td>
 
-### [🔒 EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP)
+  ### [🔒 EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP)
 
 <details>
 <summary>More Info</summary>
 
 - 🔍 Developed a secure server-client framework for encrypted real-time communication.
-
 - 📝 This project represents my most significant technical challenge and achievement to date.
+
 </details>
 
   </td>
@@ -51,7 +51,6 @@
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1d649705-9bd2-448d-aa15-af0748c1723a" width="70">](https://www.sqlite.org/index.html)
 
 🏷️ `FlagshipProject⭐`, `C++17`, `RSA`, `AES`, `CryptoPP`, `POSIXSockets`
-
 
   </td>
   </tr>
@@ -64,8 +63,8 @@
 <summary>More Info</summary>
 
 - 🔍 Focused on server-client dynamics and efficient file parsing.
-
 - 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `100`.
+
 </details>
 
   </td>
@@ -78,138 +77,69 @@
 
   </td>
   </tr>
-  <tr>
-  <td>
-
-### [🌍 Simulation Earth](https://github.com/Dor-sketch/SimulationEarth)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 A sophisticated simulation of Earth's ecosystems using cellular automata, modeling complex environmental interactions in a 2D grid.
-
-- 🎓 Developed for the "Biological Computation" class at the Open University of Israel, earning a perfect score of `100` in 2024.
-
-- 🌐 Demonstrates dynamic world modeling with real-time visualization and statistical analysis, offering insights into the interconnectedness of environmental factors.
-
-- 🧬 Showcases advanced Python programming techniques, including encapsulation, context managers, and custom Enums for dynamic rule-based logic.
-
-</details>
-    </td>
-    <td>
-     
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-     
-🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
-    </td>
-  </tr>
-  <td>
-
-### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 Crafted a dynamic timer simulating real exam conditions, enhanced with voice functionalities.
-
-- 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
-</details>
-
-  </td>
-    <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `VoiceFunctionality`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
-    </td>
-    </tr>
     <tr>
     <td>
 
 ### [🧙‍♂️ MetaDecorator](https://github.com/Dor-sketch/MetaDecorator)
+
 <details>
 <summary>More Info</summary>
 
 - 🔍 A Python script for dynamically injecting decorators into class methods using a metaclass.
-
 - 🎓 Originally started as a course project for _Defensive System-Programming (20937)_ at the Open University of Israel, earning a grade of `100`.
-
 - 🔄 Since then, the code has been extensively modified and improved for greater flexibility and usability.
-
 - 📝 The project demonstrates advanced Python features like metaprogramming and dynamic code execution, making it a unique addition to any software developer's toolkit.
 
 </details>
 </td>
 <td>
- 
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 
 🏷️ `Metaprogramming`, `Decorator`, `DynamicCodeExecution`, `CompilerTheory`
 
   </td>
   </tr>
-    <tr>
-      <td>
+  <tr>
+  <td>
 
 ### [📝 Anki-SmartReviewPad](https://github.com/Dor-sketch/Anki-SmartReviewPad)
+
 <details>
 <summary>More Info</summary>
 
 - 🔍 A labor of love designed to customize Anki's review interface for a streamlined and enhanced user experience.
-
 - 🎓 This self-driven project showcases a commitment to improving tools I use daily, demonstrating both my technical prowess and dedication to user-centric design.
 
 </details>
-    </td>
+  </td>
   <td>
-    
+
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="25">](https://www.javascript.com/)
 
 🏷️ `DOMManipulation`, `AnkiAPI`, `MathJex`, `AppleScript`, `Hooking`, `Overriding`
+
   </td>
   </tr>
+  <tr>
     <td>
 
-### [🎨 Pixel Art Editor](https://github.com/Dor-sketch/PythonPixelArt)
-<details>
-<summary>More Info</summary>
-
-- 🔍 A Python-based pixel art editor with a focus on simplicity and creativity, enabling users to create and manipulate pixel art images with ease.
-
-- 🎓 Developed as a passion project to explore the realms of digital art and image processing in Python.
-
-- 🖌️ Features include pixel size adjustment, color palette management, transparency, and history tracking for undo/redo actions.
-
-- 📚 Utilizes advanced programming concepts combined with matplotlib for graphical rendering.
-
-</details>
- </td>
-  <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `ImageProcessing`, `Matplotlib`, `Tkinter`
-  </td>
-</tr>
-    <tr>
-      <td>
-
-
-### [🛡️ Security Demonstrations](https://github.com/Dor-sketch/ASLR-StackSecDemos)
+### [🛡️ ASLR-StackSecDemos](https://github.com/Dor-sketch/ASLR-StackSecDemos)
 
 <details>
 <summary>More Info</summary>
 
 - 🔍 Detailed exploration of ASLR and stack overflow vulnerabilities.
+
 </details>
   </td>
   <td>
-   
+
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-   
+
 🏷️ `ASLR`, `StackOverflowExploit`, `OpenSSL`, `PositionIndependentCode`, `GDB`
+
   </td>
   </tr>
   <tr>
@@ -221,32 +151,29 @@
 <summary>More Info</summary>
 
 - 🔍 Emphasized on OOP, utilization of smart pointers, and STL containers.
-
 - 🎓 Course: _Defensive System-Programming, The Open University of Israel._ Grade: `96`.
 
 </details>
   </td>
   <td>
-   
+
   [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-  
+
 🏷️ `OOP`, `C++14`, `STL`, `SmartPointers`, `Valgrind`, `UMLGraph`
 
   </td>
   </tr>
-      <tr>
-      <td>
-        
-### [🚀 LeetCode ToolKit](https://github.com/Dor-sketch/LeetCode-Solutions)
+  <tr>
+  <td>
+
+### [🚀 LeetCode Selenium Driver+](https://github.com/Dor-sketch/LeetCode-Solutions)
+
 <details>
 <summary>More Info</summary>
 
 - 🔍 Solutions, Algorithms & Automated Downloader: A comprehensive toolkit featuring my solutions to LeetCode challenges, with a focus on algorithms and data structures.
-
 - 🤖 Includes an innovative Python script with Selenium WebDriver, automating the download of accepted LeetCode solutions.
-
 - 🎓 An ongoing project that serves as a testament to my problem-solving skills and software engineering acumen as a senior student.
-
 - 📝 The toolkit is systematically organized by difficulty and includes detailed explanations of time and space complexities for each solution, along with a neat directory structure for downloaded solutions.
 
 </details>
@@ -258,11 +185,12 @@
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 
 🏷️ `CodingChallenges`, `Automation`, `Selenium`, `WebDriver`
+
   </td>
-  </tr>
+</tr>
 </table>
 </details>
-</details>
+
 
 <details>
 <summary>Operating Systems and Low-Level Programming</summary>
@@ -438,6 +366,135 @@
     </td>
   </tr>
   <tr>
+    <td>
+
+### [🧩 AlphaSudokuGo](https://github.com/Dor-sketch/AlphaSudokuGo)
+<details>
+<summary>More Info</summary>
+
+- 🔍 **Advanced AI Techniques**: Employs constraint satisfaction and backtracking algorithms, alongside AI strategies, to efficiently solve Sudoku puzzles of any difficulty.
+
+- 🤖 **Interactive GUI Experience**: Features an interactive GTK5 GUI, allowing users to seamlessly input puzzles, visualize the solving process in real time, and engage with the solver in an intuitive manner.
+
+- 🚀 **C++ and Qt Integration**: Demonstrates the power of C++ for core algorithm implementation, enhanced with a modern Qt interface for a user-friendly experience.
+
+- 🎓 **Educational Insight**: Provides a unique opportunity to explore advanced algorithmic and AI concepts through the lens of Sudoku solving, making it an excellent tool for learning and experimentation.
+
+- 📝 **Open Source Collaboration**: Encourages contributions and is designed as an open-source project to foster community involvement and continuous improvement.
+
+</details>
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/65393401-9274-49bd-b721-c8c0d4ab335b" width="35">](https://en.wikipedia.org/wiki/Qt_(software))
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1bdf14d9-9256-4492-905f-e5686cec4f02" width="25">](https://en.wikipedia.org/wiki/CSS)
+
+
+🏷️ `ConstraintSatisfaction`, `CSP`, `AI`, `Qt5`, `Propagation`, `AC-3`
+  </td>
+</tr>
+ <tr>
+  <td>
+
+### [🧠 HopfieldNetCore](https://github.com/Dor-sketch/HopfieldNetCore)
+<details>
+<summary>More Info</summary>
+
+- 🔍 An interactive GUI for visualizing and experimenting with Hopfield networks, a type of recurrent neural network used for associative memory.
+
+- 📊 Features real-time manipulation of neuron states, dynamic visualization of network states, and the ability to store and retrieve patterns.
+
+- 📚 Incorporates a range of tools and functionalities like pattern addition, state reset, energy calculation, and more, providing a comprehensive understanding of Hopfield networks.
+
+- 🧬 Designed to offer educational insights into neural network dynamics, allowing users to explore concepts such as energy landscapes, convergence, and pattern stability.
+
+</details>
+</td>
+<td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/8queens)
+
+🏷️ `HopfieldNetwork`, `NeuralNetworks`, `Matplotlib`, `NetworkX`
+</td>
+</tr>
+   <tr>
+    <td>
+      
+### [👾 Deep Dark Blue Mini Max](https://github.com/Dor-sketch/DeepDarkBlueMiniMax)
+<details>
+<summary>More Info</summary>
+
+- 🔍 **Minimax Algorithm & Strategy Visualization**: This project showcases a strategic stone-taking game against a computer, utilizing the minimax algorithm for decision making and NetworkX for visualizing the strategy tree.
+
+- 📈 **Graph Theory Application**: Through NetworkX, the project demonstrates an advanced application of graph theory in visualizing decision trees, aiding in understanding the algorithm's decision-making process.
+
+- 🤖 **Interactive Gameplay with Tkinter**: Incorporates Tkinter for the GUI, providing an interactive platform for gameplay and algorithm visualization.
+
+- 🎓 **Educational Tool**: Serves as an educational tool for understanding minimax algorithms and their applications in game theory and AI.
+
+- 📝 **Comprehensive Documentation**: Includes detailed explanations of the algorithm, code comments, and a guide on running the game and visualizing the strategy tree.
+
+</details>
+</td>
+<td>
+  
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+
+🏷️ `MinimaxAlgorithm`, `Trees`, `TkinterGUI`, `NetworkX`, `Backtracking`, `GameTheory`
+</td>
+</tr>
+ <tr>
+  <td>
+
+### [🌍 Simulation Earth](https://github.com/Dor-sketch/SimulationEarth)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 A sophisticated simulation of Earth's ecosystems using cellular automata, modeling complex environmental interactions in a 2D grid.
+- 🎓 Developed for the "Biological Computation" class at the Open University of Israel, earning a perfect score of `100` in 2024.
+- 🌐 Demonstrates dynamic world modeling with real-time visualization and statistical analysis, offering insights into the interconnectedness of environmental factors.
+- 🧬 Showcases advanced Python programming techniques, including encapsulation, context managers, and custom Enums for dynamic rule-based logic.
+
+</details>
+    </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
+
+  </td>
+  </tr>
+  <tr>
+    <td>
+
+### [💡 PerceptualBinaryClassifier](https://github.com/Dor-sketch/PerceptualBinaryClassifier)
+<details>
+<summary>More Info</summary>
+
+- 🔍 Implements a neural network of two single-layer perceptrons for classifying 21-digit binary numbers based on the count of 'ones'.
+
+- 🧠 Showcases fundamental concepts of perceptron-based classification including weight initialization, prediction, training, and plotting decision boundaries.
+
+- 🖥️ Features an interactive GUI for easy interaction, prediction, and visualization of the perceptron classifier.
+
+- 📚 A demonstration of practical machine learning algorithms application, part of my software engineering portfolio.
+
+</details>
+  </td>
+    <td>
+      
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `NeuralNetworks`, `Perceptron`, `BinaryClassification`, `Numpy`
+    </td>
+  </tr>
+  <tr>
   <td>
 
 ### [🌸 IrisNetRBM](https://github.com/Dor-sketch/IrisNetRBM)
@@ -485,57 +542,16 @@
 🏷️ `DecisionTrees`, `DataScience`, `Information-gain`, `Entropy`, `NetworkX`
   </td>
   </tr>
-  <tr>
-  <td>
+ 
 
-### [🧠 HopfieldNetCore](https://github.com/Dor-sketch/HopfieldNetCore)
-<details>
-<summary>More Info</summary>
-
-- 🔍 An interactive GUI for visualizing and experimenting with Hopfield networks, a type of recurrent neural network used for associative memory.
-
-- 📊 Features real-time manipulation of neuron states, dynamic visualization of network states, and the ability to store and retrieve patterns.
-
-- 📚 Incorporates a range of tools and functionalities like pattern addition, state reset, energy calculation, and more, providing a comprehensive understanding of Hopfield networks.
-
-- 🧬 Designed to offer educational insights into neural network dynamics, allowing users to explore concepts such as energy landscapes, convergence, and pattern stability.
-
+</table>
 </details>
-</td>
-<td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/8queens)
-
-🏷️ `HopfieldNetwork`, `NeuralNetworks`, `Matplotlib`, `NetworkX`
-</td>
-</tr>
-  <tr>
-    <td>
-
-### [💡 PerceptualBinaryClassifier](https://github.com/Dor-sketch/PerceptualBinaryClassifier)
-<details>
-<summary>More Info</summary>
-
-- 🔍 Implements a neural network of two single-layer perceptrons for classifying 21-digit binary numbers based on the count of 'ones'.
-
-- 🧠 Showcases fundamental concepts of perceptron-based classification including weight initialization, prediction, training, and plotting decision boundaries.
-
-- 🖥️ Features an interactive GUI for easy interaction, prediction, and visualization of the perceptron classifier.
-
-- 📚 A demonstration of practical machine learning algorithms application, part of my software engineering portfolio.
-
 </details>
-  </td>
-    <td>
-      
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
 
-🏷️ `NeuralNetworks`, `Perceptron`, `BinaryClassification`, `Numpy`
-    </td>
-  </tr>
-  <tr>
+<details>
+<summary>Multimedia Application Development</summary>
+<table class="projects-table1">
+    <tr>
     <td>
 
 ### [🎱 AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
@@ -583,73 +599,14 @@
     <td>
   
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/15-puzzle)
+
 
 🏷️ `CellularAutomata`, `CrossPatternDetection`, `Python`, `Numpy`, `Matplotlib`
   </td>
   </tr>
-    <tr>
-    <td>
-      
-### [👾 Deep Dark Blue Mini Max](https://github.com/Dor-sketch/DeepDarkBlueMiniMax)
-<details>
-<summary>More Info</summary>
-
-- 🔍 **Minimax Algorithm & Strategy Visualization**: This project showcases a strategic stone-taking game against a computer, utilizing the minimax algorithm for decision making and NetworkX for visualizing the strategy tree.
-
-- 📈 **Graph Theory Application**: Through NetworkX, the project demonstrates an advanced application of graph theory in visualizing decision trees, aiding in understanding the algorithm's decision-making process.
-
-- 🤖 **Interactive Gameplay with Tkinter**: Incorporates Tkinter for the GUI, providing an interactive platform for gameplay and algorithm visualization.
-
-- 🎓 **Educational Tool**: Serves as an educational tool for understanding minimax algorithms and their applications in game theory and AI.
-
-- 📝 **Comprehensive Documentation**: Includes detailed explanations of the algorithm, code comments, and a guide on running the game and visualizing the strategy tree.
-
-</details>
-</td>
-<td>
-  
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `MinimaxAlgorithm`, `Trees`, `TkinterGUI`, `NetworkX`, `Backtracking`, `GameTheory`
-</td>
-</tr>
-<tr>
-    <td>
-
-### [🧩 AlphaSudokuGo](https://github.com/Dor-sketch/AlphaSudokuGo)
-<details>
-<summary>More Info</summary>
-
-- 🔍 **Advanced AI Techniques**: Employs constraint satisfaction and backtracking algorithms, alongside AI strategies, to efficiently solve Sudoku puzzles of any difficulty.
-
-- 🤖 **Interactive GUI Experience**: Features an interactive GTK5 GUI, allowing users to seamlessly input puzzles, visualize the solving process in real time, and engage with the solver in an intuitive manner.
-
-- 🚀 **C++ and Qt Integration**: Demonstrates the power of C++ for core algorithm implementation, enhanced with a modern Qt interface for a user-friendly experience.
-
-- 🎓 **Educational Insight**: Provides a unique opportunity to explore advanced algorithmic and AI concepts through the lens of Sudoku solving, making it an excellent tool for learning and experimentation.
-
-- 📝 **Open Source Collaboration**: Encourages contributions and is designed as an open-source project to foster community involvement and continuous improvement.
-
-</details>
-  </td>
-  <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/65393401-9274-49bd-b721-c8c0d4ab335b" width="35">](https://en.wikipedia.org/wiki/Qt_(software))
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1bdf14d9-9256-4492-905f-e5686cec4f02" width="25">](https://en.wikipedia.org/wiki/CSS)
-
-
-🏷️ `ConstraintSatisfaction`, `CSP`, `AI`, `Qt5`, `Propagation`, `AC-3`
-  </td>
-</tr>
-</table>
-</details>
-</details>
-
-<details>
-<summary>Multimedia Application Development</summary>
-<table class="projects-table1">
-  <tr class="flagship-row">
+  <tr>
     <td>
 
   ### [🎵 AudioVisualSynth](https://github.com/Dor-sketch/AudioVisualSynth)
@@ -756,6 +713,52 @@
     </td>
 </tr>
 
+ <tr>
+  <td>
+
+### [⏲️ PsychoTimer](https://github.com/Dor-sketch/PsychoTimer)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 Crafted a dynamic timer simulating real exam conditions, enhanced with voice functionalities.
+- 🎓 A personal initiative aiming to recreate and enhance traditional exam environments.
+
+</details>
+
+  </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `VoiceFunctionality`, `MultiThreading`, `CrossPlatform`, `AzureVoiceAPI`
+
+  </td>
+  </tr>
+
+  <tr>
+  <td>
+
+### [🎨 Pixel Art Editor](https://github.com/Dor-sketch/PythonPixelArt)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 A Python-based pixel art editor with a focus on simplicity and creativity, enabling users to create and manipulate pixel art images with ease.
+- 🎓 Developed as a passion project to explore the realms of digital art and image processing in Python.
+- 🖌️ Features include pixel size adjustment, color palette management, transparency, and history tracking for undo/redo actions.
+- 📚 Utilizes advanced programming concepts combined with matplotlib for graphical rendering.
+
+</details>
+ </td>
+  <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+
+🏷️ `ImageProcessing`, `Matplotlib`, `Tkinter`
+
+  </td>
+</tr>
 
     
 </table>
