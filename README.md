@@ -7,8 +7,6 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">](https://www.linkedin.com/in/dor-pascal/)[![itch.io badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://dor-sketch.itch.io/)[<img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white">](https://leetcode.com/Dor-sketch)[<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white">](mailto:dor.pascal@gmail.com)
 
 
-
-
 * 📌 **Location**: Tel Aviv District, Israel
 
 * 💡 Proficient in `C`, `C++`, and `Python`, I'm committed to driving meaningful change through tech solutions.
@@ -391,6 +389,7 @@
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/65393401-9274-49bd-b721-c8c0d4ab335b" width="35">](https://en.wikipedia.org/wiki/Qt_(software))
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1bdf14d9-9256-4492-905f-e5686cec4f02" width="25">](https://en.wikipedia.org/wiki/CSS)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a55a0b31-bc58-4107-a595-c5488e224eff" width="35">](https://en.wikipedia.org/wiki/CMake)
 
 
 🏷️ `ConstraintSatisfaction`, `CSP`, `AI`, `Qt5`, `Propagation`, `AC-3`
@@ -710,8 +709,10 @@
     
     [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/c80d14c7-d2f3-4442-a39e-655d7531b579" width="25">](https://isocpp.org/)
     [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/47888b5b-b42a-41da-abd9-d5b9713bbf0f" width="35">](https://www.gtk.org/)
+  [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/65393401-9274-49bd-b721-c8c0d4ab335b" width="35">](https://en.wikipedia.org/wiki/Qt_(software))
+  [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a55a0b31-bc58-4107-a595-c5488e224eff" width="35">](https://en.wikipedia.org/wiki/CMake)
 
-🏷️ `C++`, `Game Development`, `GTK`, `MIDI Integration`, `Interactive Gameplay`
+🏷️ `C++`, `Game Development`, `GTK`, `MIDI Integration`, `Interactive Gameplay`, `Qt6`, `CMake`
     </td>
 </tr>
 
