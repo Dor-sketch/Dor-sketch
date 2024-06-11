@@ -421,6 +421,31 @@
 🏷️ `HopfieldNetwork`, `NeuralNetworks`, `Matplotlib`, `NetworkX`
 </td>
 </tr>
+ <tr>
+  <td>
+
+### [🌍 Simulation Earth](https://github.com/Dor-sketch/SimulationEarth)
+
+<details>
+<summary>More Info</summary>
+
+- 🔍 A sophisticated simulation of Earth's ecosystems using cellular automata, modeling complex environmental interactions in a 2D grid.
+- 🎓 Developed for the "Biological Computation" class at the Open University of Israel, earning a perfect score of `100` in 2024.
+- 🌐 Demonstrates dynamic world modeling with real-time visualization and statistical analysis, offering insights into the interconnectedness of environmental factors.
+- 🧬 Showcases advanced Python programming techniques, including encapsulation, context managers, and custom Enums for dynamic rule-based logic.
+
+</details>
+    </td>
+    <td>
+
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/simulation-earth)
+
+🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
+
+  </td>
+  </tr>
    <tr>
     <td>
       
@@ -448,29 +473,6 @@
 🏷️ `MinimaxAlgorithm`, `Trees`, `TkinterGUI`, `NetworkX`, `Backtracking`, `GameTheory`
 </td>
 </tr>
- <tr>
-  <td>
-
-### [🌍 Simulation Earth](https://github.com/Dor-sketch/SimulationEarth)
-
-<details>
-<summary>More Info</summary>
-
-- 🔍 A sophisticated simulation of Earth's ecosystems using cellular automata, modeling complex environmental interactions in a 2D grid.
-- 🎓 Developed for the "Biological Computation" class at the Open University of Israel, earning a perfect score of `100` in 2024.
-- 🌐 Demonstrates dynamic world modeling with real-time visualization and statistical analysis, offering insights into the interconnectedness of environmental factors.
-- 🧬 Showcases advanced Python programming techniques, including encapsulation, context managers, and custom Enums for dynamic rule-based logic.
-
-</details>
-    </td>
-    <td>
-
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-
-🏷️ `CellularAutomata`, `EnvironmentalSimulation`, `RealTimeVisualization`
-
-  </td>
-  </tr>
   <tr>
     <td>
 
