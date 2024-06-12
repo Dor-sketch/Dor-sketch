@@ -603,7 +603,7 @@
   
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
     [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
-    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/15-puzzle)
+    [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/minesweeper)
 
 
 🏷️ `CellularAutomata`, `CrossPatternDetection`, `Python`, `Numpy`, `Matplotlib`
