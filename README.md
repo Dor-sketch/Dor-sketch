@@ -26,7 +26,7 @@
 ## 📂 Projects
 
 <details>
-<summary>Networking and Security</summary>
+<summary>🔐 Networking and Security</summary>
 <table class="projects-table3">
   <tr class="flagship-row">
     <td>
@@ -193,7 +193,7 @@
 
 
 <details>
-<summary>Operating Systems and Low-Level Programming</summary>
+<summary>⚙️ Operating Systems and Low-Level Programming</summary>
 <table class="projects-table1">
   <tr class="flagship-row">
     <td>
@@ -336,7 +336,7 @@
 </details>
 
 <details>
-<summary>AI, Machine Learning and Neural Networks</summary>
+<summary>🤖 AI, Machine Learning and Neural Networks</summary>
 <table class="projects-table5">
   <tr class="flagship-row">
     <td>
@@ -552,7 +552,7 @@
 </details>
 
 <details>
-<summary>Multimedia Application Development</summary>
+<summary>🎮 Multimedia Application Development</summary>
 <table class="projects-table1">
     <tr>
     <td>
