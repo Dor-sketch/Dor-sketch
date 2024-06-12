@@ -114,7 +114,7 @@
   <td>
 
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
-[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="25">](https://www.javascript.com/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="30">](https://www.javascript.com/)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1d649705-9bd2-448d-aa15-af0748c1723a" width="70">](https://www.sqlite.org/index.html)
 
 
@@ -656,8 +656,12 @@
     <td>    
     
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/6b5678ec-a104-4cf9-b0fa-dc37e34915a4" width="25">](https://www.python.org/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/848c2b45-ccee-419f-b44a-d8188d99b2e7" width="30">](https://www.javascript.com/)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/1bdf14d9-9256-4492-905f-e5686cec4f02" width="25">](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/858e47f3-8bb6-4ea4-bac7-94803658baf3" width="35">](https://en.wikipedia.org/wiki/Pygame)
+[<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/7c7f8670-2cda-4025-bea7-f72a3ca739a9" width="35">](https://github.com/Dor-sketch/Dor-sketch/assets/138825033/7c7f8670-2cda-4025-bea7-f72a3ca739a9)
 [<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/f6a0e49b-7a51-4e4c-a95c-e08539551af7" height="30">](https://dor-sketch.itch.io/miriminer)
+
 
 🏷️ `Python`, `Game Development`, `Real-time Processing`, `Graphics`, `Interactive Gameplay`
     </td>
@@ -789,6 +793,8 @@
 - :books: Proven Autonomous Learning Abilities
 
 - :handshake: Leadership & Team Collaboration
+
+![Logomark_Full Color]()
 
 ---
 
