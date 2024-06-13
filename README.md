@@ -794,8 +794,6 @@
 
 - :handshake: Leadership & Team Collaboration
 
-![Logomark_Full Color]()
-
 ---
 
 ### Languages & Certifications
