@@ -1,6 +1,6 @@
-# 🚀 Dor Pascal
-
 <div align="center">
+
+# 🚀 Dor Pascal
 
 <img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81" width="700">
 
@@ -8,30 +8,41 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dor-pascal/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://dor-sketch.itch.io/)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-
 </div>
 
 ## 👨‍💻 About Me
 
-- 📍 Based in **Israel**
-- 🏥 Medical student with a strong foundation in **computer science and law**
-- 🎯 Passionate about **systems programming, AI, and security**
+<img align="right" width="300"  alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=Dor-sketch&layout=compact&theme=react&show_icons=true&rank_icon=github" />
 
-### Featured Projects
+Full-stack developer based in Rosh Pina, Israel, with a unique blend of software development and legal expertise. I create innovative solutions across multiple platforms, specializing in modern browsers and mobile applications.
 
-#### 🌐 **Web & Mobile Applications & Extensions**
+![Tech Stack](https://img.shields.io/badge/Tech_Stack-Full_Stack-blue?style=for-the-badge&logo=stack-overflow)
+![Location](https://img.shields.io/badge/Location-Rosh_Pina,_Israel-green?style=for-the-badge&logo=google-maps)
+![Experience](https://img.shields.io/badge/Experience-5+_Years-orange?style=for-the-badge&logo=expertise)
 
-| Project | Users | Rating | Status |
-|:--------|:------:|:-------:|:-------:|
-| [🌸 Modern Sakura Theme](https://chrome.google.com/webstore/detail/obhakalgimdchnloomkmcikodkbodphp) | ![Users](https://img.shields.io/chrome-web-store/users/obhakalgimdchnloomkmcikodkbodphp?color=ff69b4) | ![Rating](https://img.shields.io/chrome-web-store/rating/obhakalgimdchnloomkmcikodkbodphp?color=ff69b4) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| [📥 Open University Video Downloader](https://chrome.google.com/webstore/detail/fkbmllibdgnfpfconibkkjdbkjfcjibc) | ![Users](https://img.shields.io/chrome-web-store/users/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Rating](https://img.shields.io/chrome-web-store/rating/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| [📅 Hebrew Calendar](https://chrome.google.com/webstore/detail/hibmadldekamhiflhbaflaiafdbigihe) | ![Users](https://img.shields.io/chrome-web-store/users/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Rating](https://img.shields.io/chrome-web-store/rating/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+## 🎓 Education & Certifications
 
-#### 📱 Mobile & Web Applications
+<img align="right" width="300"  alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dor-sketch&theme=radical&layout=compact&theme=react" />
+
+- **Doctor of Medicine (M.D.)** | Bar-Ilan University *(In Progress)*
+- **B.Sc. in Computer Science** | Open University of Israel *(2019 - 2025 expected)*
+- **LL.B. in Law** | Hebrew University of Jerusalem *(2013 - 2017)*
+- **Israeli Bar Certified Lawyer (2019)**
+
+## Featured Projects
+
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dor-sketch&layout=compact&theme=react&hide_progress=true&hide_precentage=true" />
+
+### 🤖 **AI & Machine Learning**
+
+- [🧬 GameOfLifeAI](https://dorpascal.com/game-of-life-ai/) - Genetic algorithms in Conway's Game of Life
+- [🧩 AlphaSudokuGo](https://dorpascal.com/sudoku-solver/) - AI-powered Sudoku solver
+- [💯 Psychometry Solutions](https://dorpascal.com/psychometry_solutions/) - Advanced Image processing for instant results
+
+
+### 📱 Mobile & Web Applications
+
+<div align="center">
 
 | Project | Platform | Stats | Description |
 |:--------|:---------|:------|:------------|
@@ -39,26 +50,27 @@
 | **Tanakh Pro** | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/tanakh-pro/id6736739283) | ![Version](https://img.shields.io/itunes/v/6736739283?style=for-the-badge&label=Version) | Modern interface for biblical study |
 | **GPA Calculator** | [![Web](https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge)](https://dorpascal.com/gpa-calculator/he/) | ![Users](https://img.shields.io/badge/Users-500+-success?style=for-the-badge) | Israel's trusted GPA calculation tool |
 
-#### 🤖 **AI & Machine Learning**
+</div>
 
-- [🧬 GameOfLifeAI](https://dorpascal.com/game-of-life-ai/) - Genetic algorithms in Conway's Game of Life
-- [🧩 AlphaSudokuGo](https://dorpascal.com/sudoku-solver/) - AI-powered Sudoku solver
-- [💯 Psychometry Solution](https://dorpascal.com/psychometry_solutions/) - Advanced Image processing for instant results
+### 🌐 **Web & Mobile Applications & Extensions**
 
-## 🎓 Education & Certifications
+<div align="center">
 
-- **Doctor of Medicine (M.D.)** | Bar-Ilan University *(In Progress)*
-- **B.Sc. in Computer Science** | Open University of Israel *(2019 - 2025 expected)*
-- **LL.B. in Law** | Hebrew University of Jerusalem *(2013 - 2017)*
-- **Israeli Bar Certified Lawyer (2019)**
+| Project | Users | Rating | Status |
+|:--------|:------:|:-------:|:-------:|
+| [🌸 Modern Sakura Theme](https://chrome.google.com/webstore/detail/obhakalgimdchnloomkmcikodkbodphp) | ![Users](https://img.shields.io/chrome-web-store/users/obhakalgimdchnloomkmcikodkbodphp?color=ff69b4) | ![Rating](https://img.shields.io/chrome-web-store/rating/obhakalgimdchnloomkmcikodkbodphp?color=ff69b4) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [📥 Open University Video Downloader](https://chrome.google.com/webstore/detail/fkbmllibdgnfpfconibkkjdbkjfcjibc) | ![Users](https://img.shields.io/chrome-web-store/users/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Rating](https://img.shields.io/chrome-web-store/rating/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [📅 Hebrew Calendar](https://chrome.google.com/webstore/detail/hibmadldekamhiflhbaflaiafdbigihe) | ![Users](https://img.shields.io/chrome-web-store/users/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Rating](https://img.shields.io/chrome-web-store/rating/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
 
-## 📫 Let's Connect!
+</div>
+
+---
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-dorpascal.com-blue?style=for-the-badge&logo=firefox)](https://dorpascal.com)
 [![Email Me](https://img.shields.io/badge/Email-dor@dorpascal.com-red?style=for-the-badge&logo=gmail)](mailto:dor@dorpascal.com)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dor-sketch&theme=radical" alt="GitHub Streak" />
+[![Last Updated](https://img.shields.io/github/last-commit/Dor-sketch/Dor-sketch?style=for-the-badge&logo=github)](https://github.com/Dor-sketch)
+[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Dor-sketch.Dor-sketch&style=for-the-badge)](https://github.com/Dor-sketch)
 
 </div>
