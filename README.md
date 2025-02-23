@@ -1,109 +1,64 @@
-<h1 align="center">🚀 Dor Pascal</h1>
+# 🚀 Dor Pascal
 
-<p align="center">
-  <a href="https://dorpascal.com"><strong>🌐 dorpascal.com</strong></a>
-  <br>
-  Explore my portfolio and latest projects!
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81" width="700">
-</p>
+<img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81" width="700">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dor-pascal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://dor-sketch.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
-  <a href="https://leetcode.com/Dor-sketch"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"></a>
-  <a href="mailto:dor@dorpascal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-dorpascal.com-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://dorpascal.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dor-pascal/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://dor-sketch.itch.io/)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+</div>
 
 ## 👨‍💻 About Me
 
-- 📍 Based in Tel Aviv District, Israel
-- 💻 Proficient in `C`, `C++`, and `Python`
-- 🎯 Seeking software engineering opportunities
-- 🧠 Blending legal expertise with software development passion
+- 📍 Based in **Israel**
+- 🏥 Medical student with a strong foundation in **computer science and law**
+- 🎯 Passionate about **systems programming, AI, and security**
 
-## 🎓 Education
+### Featured Projects
 
-- **BSc in Computer Science** | The Open University of Israel (2019 - 2024 expected)
-- **LLB & BA in Asian Studies** | The Hebrew University of Jerusalem (2013 - 2017)
+#### 🌐 **Web & Mobile Applications & Extensions**
 
-## 🛠️ Featured Projects
+| Project | Users | Rating | Status |
+|:--------|:------:|:-------:|:-------:|
+| [🌸 Modern Sakura Theme](https://chrome.google.com/webstore/detail/obhakalgimdchnloomkmcikodkbodphp) | ![Users](https://img.shields.io/chrome-web-store/users/obhakalgimdchnloomkmcikodkbodphp?color=ff69b4) | ![Rating](https://img.shields.io/chrome-web-store/rating/obhakalgimdchnloomkmcikodkbodphp?color=ff69b4) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [📥 Open University Video Downloader](https://chrome.google.com/webstore/detail/fkbmllibdgnfpfconibkkjdbkjfcjibc) | ![Users](https://img.shields.io/chrome-web-store/users/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Rating](https://img.shields.io/chrome-web-store/rating/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [📅 Hebrew Calendar](https://chrome.google.com/webstore/detail/hibmadldekamhiflhbaflaiafdbigihe) | ![Users](https://img.shields.io/chrome-web-store/users/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Rating](https://img.shields.io/chrome-web-store/rating/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
 
-<details>
-<summary><strong>🔐 Networking and Security</strong></summary>
+#### 📱 Mobile & Web Applications
 
-### [EncryptedTCP](https://github.com/Dor-sketch/EncryptedTCP)
-Secure real-time communication framework
+| Project | Platform | Stats | Description |
+|:--------|:---------|:------|:------------|
+| [**SourceView PRO**](https://sourceview.tech) | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/sourceview-pro-web-inspector/id6737245127) | ![Version](https://img.shields.io/itunes/v/6737245127?style=for-the-badge&label=Version) | World's leading source code inspector for iOS |
+| **Tanakh Pro** | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/tanakh-pro/id6736739283) | ![Version](https://img.shields.io/itunes/v/6736739283?style=for-the-badge&label=Version) | Modern interface for biblical study |
+| **GPA Calculator** | [![Web](https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge)](https://dorpascal.com/gpa-calculator/he/) | ![Users](https://img.shields.io/badge/Users-500+-success?style=for-the-badge) | Israel's trusted GPA calculation tool |
 
-### [MetaDecorator](https://github.com/Dor-sketch/MetaDecorator)
-Dynamic Python decorator injection
+#### 🤖 **AI & Machine Learning**
 
-### [ASLR-StackSecDemos](https://github.com/Dor-sketch/ASLR-StackSecDemos)
-ASLR and stack overflow vulnerability exploration
+- [🧬 GameOfLifeAI](https://dorpascal.com/game-of-life-ai/) - Genetic algorithms in Conway's Game of Life
+- [🧩 AlphaSudokuGo](https://dorpascal.com/sudoku-solver/) - AI-powered Sudoku solver
+- [💯 Psychometry Solution](https://dorpascal.com/psychometry_solutions/) - Advanced Image processing for instant results
 
-</details>
+## 🎓 Education & Certifications
 
-<details>
-<summary><strong>⚙️ Systems Programming</strong></summary>
+- **Doctor of Medicine (M.D.)** | Bar-Ilan University *(In Progress)*
+- **B.Sc. in Computer Science** | Open University of Israel *(2019 - 2025 expected)*
+- **LL.B. in Law** | Hebrew University of Jerusalem *(2013 - 2017)*
+- **Israeli Bar Certified Lawyer (2019)**
 
-### [Assembler](https://github.com/Dor-sketch/openu_course20465_project)
-Custom assembler implementation
+## 📫 Let's Connect!
 
-### [XV6 'ps' Syscall](https://github.com/Dor-sketch/xv6-ps-implementation)
-Custom system call for XV6 OS
+<div align="center">
 
-### [Embedded C Concepts](https://github.com/Dor-sketch/CBits)
-Low-level programming explorations
+[![Portfolio](https://img.shields.io/badge/Portfolio-dorpascal.com-blue?style=for-the-badge&logo=firefox)](https://dorpascal.com)
+[![Email Me](https://img.shields.io/badge/Email-dor@dorpascal.com-red?style=for-the-badge&logo=gmail)](mailto:dor@dorpascal.com)
 
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dor-sketch&theme=radical" alt="GitHub Streak" />
 
-<details>
-<summary><strong>🤖 AI & Machine Learning</strong></summary>
-
-### [GameOfLifeAI](https://github.com/Dor-sketch/GameOfLifeAI)
-Genetic algorithms in Conway's Game of Life
-
-### [AlphaSudokuGo](https://github.com/Dor-sketch/AlphaSudokuGo)
-AI-powered Sudoku solver
-
-### [HopfieldNetCore](https://github.com/Dor-sketch/HopfieldNetCore)
-Interactive Hopfield network simulator
-
-</details>
-
-<details>
-<summary><strong>🎮 Multimedia Development</strong></summary>
-
-### [AudioVisualSynth](https://github.com/Dor-sketch/AudioVisualSynth)
-3D audio-visual synthesizer
-
-### [AI-8Puzzle](https://github.com/Dor-sketch/AI8Puzzle)
-AI algorithms for 8-Puzzle game
-
-### [Pixel Art Editor](https://github.com/Dor-sketch/PythonPixelArt)
-Python-based digital art tool
-
-</details>
-
-## 💼 Skills
-
-- **Technical**: `C`, `C++`, `Python`, Legal Analysis
-- **Soft Skills**: Problem-solving, Adaptability, Autonomous Learning, Leadership
-
-## 🌐 Languages
-
-- 🇮🇱 Hebrew (Native)
-- 🇺🇸 English (Fluent)
-- 🇯🇵 Japanese (Basic)
-
-## 📜 Certifications
-
-- Israeli Bar Certified Lawyer (2019)
-
----
-
-<p align="center">
-  <i>For a comprehensive look at my projects and experience, visit <a href="https://dorpascal.com">dorpascal.com</a></i>
-</p>
+</div>
