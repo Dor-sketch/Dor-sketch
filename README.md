@@ -16,10 +16,6 @@
 
 Full-stack developer based in Rosh Pina, Israel, with a unique blend of software development and legal expertise. I create innovative solutions across multiple platforms, specializing in modern browsers and mobile applications.
 
-![Tech Stack](https://img.shields.io/badge/Tech_Stack-Full_Stack-blue?style=for-the-badge&logo=stack-overflow)
-![Location](https://img.shields.io/badge/Location-Rosh_Pina,_Israel-green?style=for-the-badge&logo=google-maps)
-![Experience](https://img.shields.io/badge/Experience-5+_Years-orange?style=for-the-badge&logo=expertise)
-
 ## 🎓 Education & Certifications
 
 <img align="right" width="300"  alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dor-sketch&theme=radical&layout=compact&theme=react" />
