@@ -1,6 +1,6 @@
-<div align="center">
-
 # 🚀 Dor Pascal
+
+<div align="center">
 
 <img src="https://github.com/Dor-sketch/Dor-sketch/assets/138825033/a31afabd-c5fa-4305-b1c8-701e635b1d81" width="700">
 
@@ -39,6 +39,19 @@ Full-stack developer based in Rosh Pina, Israel, with a unique blend of software
 - [🧩 AlphaSudokuGo](https://dorpascal.com/sudoku-solver/) - AI-powered Sudoku solver
 - [💯 Psychometry Solutions](https://dorpascal.com/psychometry_solutions/) - Advanced Image processing for instant results
 
+### 🌐 **Web & Mobile Applications & Extensions**
+
+<div align="center">
+
+| Project | Users | Rating | Status |
+|:--------|:------:|:-------:|:-------:|
+| [🌸 Modern Sakura Theme](https://chrome.google.com/webstore/detail/obhakalgimdchnloomkmcikodkbodphp) | ![Users](https://img.shields.io/chrome-web-store/users/obhakalgimdchnloomkmcikodkbodphp?color=ffffff) | ![Rating](https://img.shields.io/chrome-web-store/rating/obhakalgimdchnloomkmcikodkbodphp?color=ffffff) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [🌙 Midnight Breeze](https://chrome.google.com/webstore/detail/ocndibgolgdldiddnnljmnjjhdmaaoap) | ![Users](https://img.shields.io/chrome-web-store/users/ocndibgolgdldiddnnljmnjjhdmaaoap?color=purple) | ![Rating](https://img.shields.io/chrome-web-store/rating/ocndibgolgdldiddnnljmnjjhdmaaoap?color=purple) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [🐼 Sleek Dark Modern Theme](https://chrome.google.com/webstore/detail/ocmjbielajeojlafneaocalbcjbklekg) | ![Users](https://img.shields.io/chrome-web-store/users/ocmjbielajeojlafneaocalbcjbklekg?color=black) | ![Rating](https://img.shields.io/chrome-web-store/rating/ocmjbielajeojlafneaocalbcjbklekg?color=black) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [📥 Open University Video Downloader](https://chrome.google.com/webstore/detail/fkbmllibdgnfpfconibkkjdbkjfcjibc) | ![Users](https://img.shields.io/chrome-web-store/users/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Rating](https://img.shields.io/chrome-web-store/rating/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+| [📅 Hebrew Calendar](https://chrome.google.com/webstore/detail/hibmadldekamhiflhbaflaiafdbigihe) | ![Users](https://img.shields.io/chrome-web-store/users/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Rating](https://img.shields.io/chrome-web-store/rating/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
+
+</div>
 
 ### 📱 Mobile & Web Applications
 
@@ -49,18 +62,6 @@ Full-stack developer based in Rosh Pina, Israel, with a unique blend of software
 | [**SourceView PRO**](https://sourceview.tech) | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/sourceview-pro-web-inspector/id6737245127) | ![Version](https://img.shields.io/itunes/v/6737245127?style=for-the-badge&label=Version) | World's leading source code inspector for iOS |
 | **Tanakh Pro** | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/tanakh-pro/id6736739283) | ![Version](https://img.shields.io/itunes/v/6736739283?style=for-the-badge&label=Version) | Modern interface for biblical study |
 | **GPA Calculator** | [![Web](https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge)](https://dorpascal.com/gpa-calculator/he/) | ![Users](https://img.shields.io/badge/Users-500+-success?style=for-the-badge) | Israel's trusted GPA calculation tool |
-
-</div>
-
-### 🌐 **Web & Mobile Applications & Extensions**
-
-<div align="center">
-
-| Project | Users | Rating | Status |
-|:--------|:------:|:-------:|:-------:|
-| [🌸 Modern Sakura Theme](https://chrome.google.com/webstore/detail/obhakalgimdchnloomkmcikodkbodphp) | ![Users](https://img.shields.io/chrome-web-store/users/obhakalgimdchnloomkmcikodkbodphp?color=ff69b4) | ![Rating](https://img.shields.io/chrome-web-store/rating/obhakalgimdchnloomkmcikodkbodphp?color=ff69b4) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| [📥 Open University Video Downloader](https://chrome.google.com/webstore/detail/fkbmllibdgnfpfconibkkjdbkjfcjibc) | ![Users](https://img.shields.io/chrome-web-store/users/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Rating](https://img.shields.io/chrome-web-store/rating/fkbmllibdgnfpfconibkkjdbkjfcjibc?color=blue) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
-| [📅 Hebrew Calendar](https://chrome.google.com/webstore/detail/hibmadldekamhiflhbaflaiafdbigihe) | ![Users](https://img.shields.io/chrome-web-store/users/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Rating](https://img.shields.io/chrome-web-store/rating/hibmadldekamhiflhbaflaiafdbigihe?color=gold) | ![Status](https://img.shields.io/badge/status-active-success?style=flat-square) |
 
 </div>
 
