@@ -36,7 +36,7 @@
 
 <img align="right" width="300"  alt="GitHub Streak" src="https://github-readme-stats.vercel.app/api?username=Dor-sketch&layout=compact&theme=react&show_icons=true&rank_icon=github&hide_border=true&border_radius=20" />
 
-Full-stack developer based in Rosh Pina, Israel, with a unique blend of software development and legal expertise. I create innovative solutions across multiple platforms, specializing in modern browsers and mobile applications.
+I'm Dor Pascal, a former lawyer turned indie developer, now studying medicine. I’ve built popular apps, worked in legal advocacy, and still develop software while in school. Based in Israel, I’m blending law and coding for now—hopefully healthcare in the future.
 
 ## 🎓 Education & Certifications
 
