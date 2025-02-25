@@ -38,15 +38,6 @@
 
 I'm Dor Pascal, a former lawyer turned indie developer, now studying medicine. I’ve built popular apps, worked in legal advocacy, and still develop software while in school. Based in Israel, I’m blending law and coding for now—hopefully healthcare in the future.
 
-## 🎓 Education & Certifications
-
-<img align="right" width="300"  alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dor-sketch&theme=react&border_radius=20&hide_border=true" />
-
-- **Doctor of Medicine (M.D.)** | Bar-Ilan University *(In Progress)*
-- **B.Sc. in Computer Science** | Open University of Israel *(2019 - 2025 expected)*
-- **LL.B. in Law** | Hebrew University of Jerusalem *(2013 - 2017)*
-- **Israeli Bar Certified Lawyer (2019)**
-
 ## Featured Projects
 
 <img align="right" width="300"  alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dor-sketch&layout=compact&theme=react&hide_border=true&border_radius=20&hide_progress=true&hide_precentage=true"  >
@@ -78,16 +69,29 @@ I'm Dor Pascal, a former lawyer turned indie developer, now studying medicine. I
 <a href="https://apps.apple.com/us/app/tanakh-hebrew-bible-reader/id6738627262?mt=12&itscg=30200&itsct=apps_box_link&mttnsubad=6738627262">
   <img src="https://github.com/user-attachments/assets/4ecbb6a6-3197-4b67-b8fa-8a1d9bc2de20" alt="Tanakh Hebrew Bible Reader" width="150" height="150">
 </a>
-
-<a href="https://apps.apple.com/us/app/hebrew-date-for-menu-bar/id6738323298?mt=12&itscg=30200&itsct=apps_box_link&mttnsubad=6738323298">
-  <img src="https://github.com/user-attachments/assets/0d0ea185-0b17-4d9b-a140-9f17219c32bb" alt="Hebrew Date for Menu Bar" width="150" height="150">
-</a>
-
 <a href="https://apps.apple.com/us/app/isotable-max-periodic-table/id6738387737?mt=12&itscg=30200&itsct=apps_box_link&mttnsubad=6738387737">
   <img src="https://github.com/user-attachments/assets/ecaac4f4-e229-4f7f-98e9-0688c2c9a7f5" alt="ISO Table Max - Periodic Table" width="150" height="150">
 </a>
-
+<a href="https://apps.apple.com/us/app/tanakh-for-safari/id6737229282?mt=12&itscg=30200&itsct=apps_box_link&mttnsubad=6737229282">
+<img src="https://github.com/user-attachments/assets/cb391144-6bc2-4317-97d6-bcc8f6d6132e" alt="Tanakh for Safari"width="150" height="150">
+</a>
+<a href="https://apps.apple.com/us/app/jsoncraft-editor-formatter/id6738589821?mt=12&itscg=30200&itsct=apps_box_link&mttnsubad=6738589821">
+  <img src="https://github.com/user-attachments/assets/6ba89b4d-c56a-458b-818c-be96546cf01a" alt="JSONCraft - Editor & Formatter" width="150" height="150">
+</a>
+<a href="https://apps.apple.com/us/app/pypocket-pro/id6738283250?mt=12&itscg=30200&itsct=apps_box_link&mttnsubad=6738283250">
+  <img src="https://github.com/user-attachments/assets/4971ac02-051c-4efa-b57c-a0a1e03251ea" alt="PyPocket Pro"  width="150" height="150">
+</a>
+<a href="https://apps.apple.com/us/app/hebrew-date-for-menu-bar/id6738323298?mt=12&itscg=30200&itsct=apps_box_link&mttnsubad=6738323298">
+  <img src="https://github.com/user-attachments/assets/0d0ea185-0b17-4d9b-a140-9f17219c32bb" alt="Hebrew Date for Menu Bar" width="150" height="150">
+</a>
 </div>
+
+## 🎓 Education & Certifications
+
+- **Doctor of Medicine (M.D.)** | Bar-Ilan University *(In Progress)*
+- **B.Sc. in Computer Science** | Open University of Israel *(2019 - 2025 expected)*
+- **LL.B. in Law** | Hebrew University of Jerusalem *(2013 - 2017)*
+- **Israeli Bar Certified Lawyer (2019)**
 
 ---
 
